@@ -1,0 +1,20 @@
+[project]
+name = "dsa2025-m03-f08-optimisation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyterlab>=4.4.1",
+    "matplotlib>=3.10.1",
+    "mlflow>=2.22.0",
+    "np>=1.0.2",
+    "optuna>=4.3.0",
+    "optuna-integration>=4.3.0",
+    "pandas>=2.2.3",
+    "ruff>=0.11.7",
+    "scikit-learn>=1.6.1",
+    "shap>=0.47.2",
+    "xgboost>=3.0.0",
+]
