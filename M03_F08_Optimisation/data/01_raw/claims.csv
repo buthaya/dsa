@@ -1,0 +1,1101 @@
+,claim_id,customer_id,incident_cause,claim_date,claim_area,police_report,claim_type,claim_amount,total_policy_claims,fraudulent
+0,54004764,21868593,Driver error,11/27/2017,Auto,No,Material only,$2980,1.0,No
+1,33985796,75740424,Crime,10/03/2018,Home,Unknown,Material only,$2980,3.0,No
+2,53522022,30308357,Other driver error,02/02/2018,Auto,No,Material only,$3369.5,1.0,Yes
+3,13015401,47830476,Natural causes,06/17/2018,Auto,No,Material only,$1680,1.0,No
+4,22890252,19269962,Crime,01/13/2018,Auto,No,Material only,$2680,1.0,No
+5,24050443,21831191,Other driver error,10/04/2017,Auto,No,Injury only,$38306.5,3.0,Yes
+6,12878692,18401412,Driver error,01/13/2018,Auto,No,Material only,$1730,4.0,No
+7,27026412,73486606,Natural causes,04/10/2018,Auto,No,Material only,$1160,3.0,No
+8,43908336,32813689,Crime,02/15/2018,Auto,Unknown,Material only,$2620,1.0,No
+9,63246959,33507197,Crime,07/22/2017,Auto,No,Material only,$2748.5,2.0,Yes
+10,74165873,99103685,Other driver error,01/13/2018,Home,No,Material only,$1495,1.0,Yes
+11,28564401,51583214,Other driver error,12/10/2017,Auto,Unknown,Material and injury,$16690,1.0,No
+12,72738047,35875366,Other driver error,04/24/2018,Auto,Unknown,Material only,$1870,1.0,No
+13,53780662,21240703,Other driver error,09/19/2018,Auto,Unknown,Material only,$1050,1.0,No
+14,67257404,18288638,Other driver error,04/24/2018,Auto,Yes,Injury only,$32560,1.0,No
+15,35489765,63240241,Natural causes,10/03/2018,Auto,No,Material only,$2870,1.0,No
+16,12548447,1407979,Driver error,06/03/2018,Auto,Unknown,Material only,$3208.5,1.0,Yes
+17,7809917,63916778,Other causes,07/22/2017,Auto,No,Injury only,$17800,1.0,No
+18,29205389,17004138,Natural causes,06/25/2017,Auto,No,Injury only,$31380,1.0,No
+19,19051665,9667764,Other causes,12/17/2017,Auto,Yes,Injury only,$36190,1.0,No
+20,32630720,75584003,Crime,02/03/2017,Auto,No,Material only,,1.0,No
+21,17910612,90012444,Other driver error,08/24/2017,Auto,No,Material only,$1010,1.0,No
+22,46956597,10665308,Natural causes,07/20/2018,Auto,No,Material only,,1.0,No
+23,68848682,35597589,Other driver error,05/29/2017,Auto,Yes,Injury only,$16830,1.0,No
+24,8782253,1924109,Driver error,09/14/2017,Auto,No,Material only,$1690,1.0,No
+25,41262918,12871942,Natural causes,04/25/2017,Auto,No,Material only,$2830,1.0,No
+26,71088680,32155446,Driver error,12/24/2017,Auto,No,Material and injury,$32640,4.0,No
+27,54764639,35876516,Driver error,08/10/2018,Auto,No,Material only,$2870,1.0,No
+28,52278305,13265356,Driver error,10/17/2017,Home,No,Material only,$1210,1.0,No
+29,18210740,80379865,Natural causes,02/09/2018,Auto,No,Injury only,$18580,,No
+30,22215431,64899302,Other driver error,06/23/2018,Auto,No,Material only,$2630,1.0,No
+31,10738822,11278282,Natural causes,08/10/2018,Auto,No,Material only,$2540,1.0,No
+32,7800059,90425966,Driver error,03/01/2018,Auto,No,Material only,$2320,1.0,No
+33,16773361,70459181,Other driver error,10/10/2017,Auto,No,Material only,$2725.5,1.0,Yes
+34,99427250,91546921,Crime,05/21/2018,Home,No,Material only,$2070,1.0,No
+35,70399158,26489135,Driver error,07/01/2017,Auto,No,Material only,$1110,1.0,No
+36,5481268,76422302,Crime,10/31/2017,Home,No,Material only,$1030,1.0,No
+37,13167216,27205554,Driver error,05/14/2018,Auto,No,Injury only,$16910,1.0,No
+38,30942972,60225946,Other causes,02/17/2017,Auto,No,Material only,$1890,1.0,No
+39,13578273,34790013,Other driver error,12/24/2017,Auto,Yes,Material and injury,$33040,5.0,No
+40,22639991,53333796,Other causes,10/09/2018,Auto,Yes,Material and injury,$25320,1.0,No
+41,73894966,28307541,Driver error,11/27/2017,Auto,No,Material only,$2340,1.0,No
+42,64959397,85536059,Other driver error,04/25/2017,Auto,Yes,Material and injury,$33000,2.0,No
+43,3673097,54642094,Driver error,04/12/2017,Auto,No,Injury only,$19960,1.0,No
+44,58245818,47091036,Driver error,07/27/2018,Home,No,Injury only,$27230,1.0,No
+45,83744906,48277275,Other driver error,04/12/2017,Auto,No,Material and injury,$16150,1.0,No
+46,14836805,75252854,Other driver error,02/23/2017,Auto,Yes,Injury only,$32630,1.0,No
+47,28636278,31012778,Other causes,03/01/2018,Auto,No,Material only,,5.0,Yes
+48,96749077,84571128,Natural causes,05/15/2017,Auto,No,Material only,,1.0,Yes
+49,40638641,38286862,Other causes,10/31/2017,Auto,Unknown,Material and injury,$41850,1.0,No
+50,94303580,1163515,Crime,04/25/2017,Auto,Yes,Injury only,$30540,1.0,No
+51,39647651,18361978,Other causes,08/31/2017,Auto,Unknown,Material and injury,$25576,7.0,Yes
+52,97983922,94953428,Other causes,06/18/2017,Auto,No,Material only,$2210,3.0,No
+53,42420540,42333031,Other causes,02/22/2018,Auto,Yes,Material and injury,$40820,3.0,No
+54,25108581,91786228,Other driver error,06/23/2018,Auto,No,Material only,$1150,1.0,Yes
+55,54192772,61051505,Other driver error,07/01/2017,Auto,Unknown,Material and injury,$35765,1.0,Yes
+56,47783756,8132649,Other driver error,11/20/2017,Auto,No,Material only,$2470,1.0,No
+57,14730852,49428676,Other causes,06/17/2018,Auto,No,Material and injury,$20999,1.0,Yes
+58,37727681,77436411,Other driver error,02/02/2018,Auto,Unknown,Material only,$3358,4.0,Yes
+59,87229793,44319192,Other causes,04/10/2018,Auto,Yes,Material and injury,$41430,1.0,No
+60,73138939,57510487,Driver error,12/10/2017,Auto,No,Material only,$1730,1.0,No
+61,23504103,62797342,Other driver error,02/09/2018,Auto,Unknown,Material and injury,$20360,1.0,No
+62,29613369,56923917,Other driver error,05/21/2018,Auto,No,Material only,$2870,4.0,No
+63,21972507,83088652,Driver error,01/14/2017,Auto,Unknown,Material only,$2910,1.0,No
+64,42737631,53087364,Other causes,07/22/2017,Home,No,Material and injury,$33550,1.0,No
+65,95352573,9089663,Other driver error,11/20/2017,Auto,No,Material and injury,$33190,1.0,No
+66,43973221,83290720,Driver error,09/26/2018,Auto,Yes,Material and injury,,1.0,No
+67,79089153,78364565,Other causes,02/10/2017,Auto,Yes,Injury only,$25830,3.0,No
+68,37305754,99761663,Natural causes,04/04/2018,Auto,No,Material only,$1242,1.0,Yes
+69,55252454,6298259,Natural causes,05/29/2017,Auto,Unknown,Material and injury,$20080,2.0,No
+70,20332975,51936868,Natural causes,08/16/2018,Auto,No,Material only,$2120,1.0,No
+71,69101899,35907845,Crime,05/14/2018,Auto,Unknown,Material and injury,$19520,1.0,No
+72,49234022,17390816,Natural causes,03/29/2017,Auto,No,Material only,$2090,1.0,No
+73,85585944,9908654,Other driver error,06/23/2018,Auto,No,Material only,$1989.5,1.0,Yes
+74,35407789,47228798,Crime,01/21/2017,Auto,Unknown,Material only,,1.0,Yes
+75,26332402,11593991,Other causes,03/01/2018,Auto,No,Material only,$2060,1.0,No
+76,50337100,15036122,Other driver error,07/20/2018,Auto,Unknown,Injury only,$30080,1.0,No
+77,1886311,59046302,Driver error,04/04/2018,Auto,No,Material only,$1680,6.0,No
+78,84635473,74058124,Driver error,01/13/2018,Auto,Unknown,Injury only,$21505,1.0,Yes
+79,99210077,95221640,Crime,05/21/2018,Auto,No,Material only,$2040,1.0,No
+80,57876931,5956033,Other driver error,02/09/2018,Auto,No,Material and injury,,1.0,Yes
+81,11951632,91462331,Driver error,02/15/2018,Auto,Unknown,Material and injury,$42722.5,1.0,Yes
+82,61170397,7946799,Other causes,07/27/2018,Auto,Unknown,Material and injury,$34971.5,5.0,Yes
+83,66546485,83884401,Driver error,05/22/2017,Auto,No,Material only,$1288,1.0,Yes
+84,62769771,36498462,Driver error,06/11/2017,Auto,Yes,Injury only,$37800,1.0,No
+85,87452238,88191021,Driver error,10/04/2017,Auto,Yes,Material only,,1.0,No
+86,99573716,88567908,Driver error,01/27/2017,Auto,No,Material only,$1180,1.0,No
+87,39128289,72896975,Other driver error,07/08/2017,Auto,Unknown,Material and injury,$32480,1.0,No
+88,64573390,85650096,Crime,08/03/2018,Auto,No,Material only,$2710,1.0,No
+89,2181243,51349085,Crime,10/17/2017,Auto,No,Material only,$2620,2.0,No
+90,51685791,90202451,Other driver error,11/20/2017,Auto,No,Material only,$1943.5,1.0,Yes
+91,1633198,55180831,Other driver error,09/07/2017,Auto,No,Material and injury,,1.0,No
+92,15165423,14433043,Driver error,06/30/2018,Auto,Yes,Material only,$2170,5.0,No
+93,76552623,56590042,Other causes,11/06/2017,Auto,No,Injury only,$31498.5,4.0,Yes
+94,64731876,43870673,Other causes,05/22/2017,Auto,Unknown,Material only,$1700,1.0,No
+95,95376481,84734050,Crime,05/28/2018,Auto,Unknown,Material only,$2220,1.0,No
+96,21229844,73246256,Crime,11/13/2017,Auto,No,Material only,$1020,1.0,No
+97,4506676,2632562,Other driver error,05/14/2018,Home,Unknown,Material only,$1400,1.0,No
+98,712628,74125758,Other causes,11/27/2017,Auto,Unknown,Injury only,$22960,1.0,No
+99,82144259,92752865,Driver error,04/25/2017,Auto,No,Injury only,,1.0,No
+100,93009471,47086007,Other causes,03/09/2017,Auto,Yes,Injury only,$18400,1.0,No
+101,23721504,33987747,Driver error,01/14/2017,Auto,No,Material and injury,$37524.5,1.0,Yes
+102,43899763,37312925,Driver error,10/31/2017,Auto,Yes,Injury only,$16070,1.0,No
+103,4821698,13233814,Other causes,07/08/2017,Auto,Unknown,Material and injury,$17230,1.0,No
+104,34488157,32561536,Natural causes,11/06/2017,Auto,No,Material and injury,$24564,1.0,Yes
+105,79953107,73456835,Other driver error,10/16/2018,Auto,No,Material only,$2599,1.0,Yes
+106,77727200,84767457,Driver error,12/03/2017,Auto,Unknown,Material and injury,$23740,1.0,No
+107,33038715,31901720,Crime,03/21/2018,Auto,No,Material only,$1510,1.0,No
+108,10744544,67885239,Driver error,05/28/2018,Auto,No,Material only,$2740,1.0,No
+109,67043170,94448966,Other driver error,10/16/2018,Auto,No,Injury only,$23760,1.0,No
+110,98303926,94633091,Crime,06/25/2017,Auto,No,Material only,$1640,1.0,No
+111,84863978,90116906,Driver error,11/13/2017,Auto,No,Injury only,$23270,6.0,No
+112,48203523,82832313,Other driver error,12/03/2017,Auto,Yes,Injury only,$29060,1.0,No
+113,73460630,87993949,Other causes,06/23/2018,Auto,Unknown,Injury only,$25783,2.0,Yes
+114,65335959,61810954,Other driver error,09/19/2018,Auto,Unknown,Material and injury,$36620,1.0,No
+115,38446319,55782839,Other causes,12/17/2017,Auto,Unknown,Injury only,$21300,1.0,No
+116,39131766,39587790,Other causes,01/01/2017,Auto,No,Material only,$2967,1.0,Yes
+117,9961723,14293434,Other driver error,05/22/2017,Home,No,Material and injury,$44493.5,1.0,Yes
+118,8405500,46620413,Other causes,03/02/2017,Auto,Unknown,Material only,$3070.5,1.0,Yes
+119,58103215,53798973,Other driver error,05/01/2018,Auto,No,Material only,$2560,1.0,No
+120,7316148,15556454,Crime,03/14/2018,Auto,No,Material only,$2070,1.0,No
+121,35026470,61497833,Other driver error,11/06/2017,Auto,No,Material only,$1759.5,4.0,Yes
+122,57560277,92889077,Natural causes,03/08/2018,Home,No,Material only,$1771,5.0,Yes
+123,19911335,19171044,Driver error,04/12/2017,Auto,Yes,Injury only,$17360,1.0,No
+124,54506772,93291407,Other driver error,07/28/2017,Auto,Unknown,Material only,$1368.5,1.0,Yes
+125,11618238,96710523,Other causes,03/21/2018,Home,Yes,Injury only,$19240,1.0,No
+126,46248222,52542420,Other driver error,04/10/2018,Auto,No,Material and injury,$14260,2.0,No
+127,13774284,37741743,Natural causes,03/08/2018,Auto,No,Material only,$1350,1.0,No
+128,30488859,48145469,Other causes,04/10/2018,Auto,Unknown,Material only,$1860,1.0,No
+129,52959888,25709472,Other driver error,10/23/2018,Auto,Unknown,Injury only,$15440,1.0,No
+130,4112041,58402401,Other causes,09/12/2018,Auto,Unknown,Material and injury,$32710,1.0,No
+131,12179959,23092790,Crime,08/03/2018,Auto,Unknown,Material only,$1380,1.0,No
+132,59404655,62476442,Natural causes,05/15/2017,Auto,No,Material and injury,,2.0,No
+133,5176652,39943087,Other driver error,03/16/2017,Auto,Unknown,Material only,$2510,1.0,No
+134,1657284,41265642,Crime,07/22/2017,Auto,No,Material only,,1.0,Yes
+135,72074471,73383008,Other driver error,02/09/2018,Auto,Unknown,Injury only,$44700.5,1.0,Yes
+136,36664338,77896466,Driver error,12/17/2017,Auto,No,Material only,$1550,1.0,No
+137,50826770,83526368,Crime,10/03/2018,Auto,Unknown,Material only,$1850,3.0,No
+138,64209730,31439710,Other driver error,07/20/2018,Home,No,Material only,$2760,1.0,No
+139,49955266,30227653,Other driver error,09/07/2017,Auto,No,Material only,$2740,1.0,No
+140,44581152,86993944,Other driver error,12/30/2017,Auto,Unknown,Injury only,$26480,1.0,No
+141,32116508,65728108,Other causes,10/09/2018,Auto,Unknown,Material and injury,$47610,3.0,Yes
+142,48559754,45539668,Other driver error,12/30/2017,Auto,No,Material only,$2170,1.0,No
+143,26716331,3159546,Other driver error,04/25/2017,Auto,No,Injury only,$17590,4.0,No
+144,74738945,88449349,Other causes,09/12/2018,Auto,No,Material only,$1080,1.0,No
+145,30532684,35937389,Natural causes,02/23/2017,Auto,Unknown,Material only,$2610,2.0,No
+146,81488988,19441247,Natural causes,07/22/2017,Auto,No,Material only,$1320,1.0,No
+147,71767146,7208859,Crime,07/01/2017,Auto,No,Material only,$1840,1.0,No
+148,67042203,65950591,Driver error,01/14/2017,Auto,No,Material only,$2970,1.0,No
+149,66578763,2327487,Driver error,05/07/2018,Auto,No,Material only,,5.0,No
+150,30930636,30722342,Driver error,04/04/2018,Home,Yes,Injury only,$17180,5.0,No
+151,30119116,31289360,Other driver error,02/23/2017,Auto,No,Material only,$2720,1.0,No
+152,45189268,24826170,Driver error,07/08/2017,Auto,No,Material only,$2700,1.0,No
+153,5567470,14860484,Other causes,03/29/2017,Auto,Unknown,Injury only,$14240,4.0,No
+154,46868258,39642700,Driver error,12/10/2017,Auto,No,Material only,$2560,3.0,No
+155,74988783,3689105,Crime,04/18/2017,Auto,Yes,Injury only,$19440,4.0,No
+156,80080381,58850120,Crime,02/23/2017,Auto,Yes,Material and injury,$40180,1.0,No
+157,50617945,76965994,Crime,03/09/2017,Auto,No,Material only,$1260,1.0,No
+158,3589979,14490971,Crime,09/19/2018,Auto,No,Material only,$1880,4.0,No
+159,33643946,88277241,Other causes,07/08/2017,Auto,Unknown,Injury only,,1.0,Yes
+160,71464126,87386746,Other causes,07/20/2018,Auto,No,Material only,$2260,1.0,No
+161,19241230,55157616,Other driver error,04/25/2017,Auto,No,Material only,$2960,1.0,No
+162,8499165,55593844,Other causes,07/22/2017,Auto,No,Material only,$1253.5,1.0,Yes
+163,65264955,72556809,Other causes,08/16/2018,Auto,Yes,Material and injury,$32300,2.0,No
+164,66703144,45653187,Natural causes,04/04/2018,Home,No,Material only,$1660,1.0,No
+165,66892177,48538925,Other causes,06/04/2017,Auto,No,Injury only,$22420,1.0,No
+166,75262517,68724425,Natural causes,06/10/2018,Auto,No,Material only,$2150,3.0,No
+167,7883163,50817031,Crime,01/26/2018,Auto,Unknown,Material only,$2460,1.0,No
+168,88126193,16836323,Crime,01/14/2017,Auto,No,Material only,$1140,4.0,No
+169,57237955,72701589,Driver error,07/20/2018,Auto,No,Material only,,1.0,No
+170,26752193,88126167,Crime,04/18/2017,Auto,Unknown,Injury only,$17050,1.0,No
+171,94297538,50642114,Other driver error,01/06/2018,Auto,Unknown,Injury only,$25030,1.0,No
+172,90714815,32180678,Other causes,08/11/2017,Auto,Unknown,Material and injury,,4.0,No
+173,25647821,74155265,Natural causes,01/01/2017,Auto,No,Material only,$2080,1.0,No
+174,56330110,26168099,Natural causes,05/07/2018,Auto,No,Injury only,$38590,3.0,No
+175,87184588,804961,Other causes,10/10/2017,Auto,No,Material and injury,$21190,1.0,No
+176,18636027,25823839,Driver error,10/10/2017,Auto,Unknown,Injury only,$36180,1.0,No
+177,90591192,61745840,Other driver error,01/01/2017,Home,No,Material and injury,$30930,1.0,No
+178,18700750,86024944,Other driver error,07/15/2017,Auto,Unknown,Material and injury,$47679,2.0,Yes
+179,72789616,40080423,Other driver error,08/30/2018,Auto,Unknown,Material only,$2440,1.0,No
+180,19132019,14275512,Driver error,10/09/2018,Auto,Unknown,Injury only,$28060,1.0,No
+181,21361160,70442756,Natural causes,01/06/2018,Auto,No,Material only,$1850,1.0,No
+182,80894091,36829984,Other driver error,02/22/2018,Auto,Yes,Material and injury,$24750,1.0,No
+183,21550521,68772500,Driver error,08/30/2018,Auto,Unknown,Material only,$2320,1.0,No
+184,69348631,154557,Driver error,04/10/2018,Auto,No,Injury only,,1.0,Yes
+185,86624774,97640137,Driver error,02/02/2018,Auto,Unknown,Injury only,$29600,1.0,No
+186,2040094,49270602,Other causes,06/17/2018,Auto,No,Material only,$1790,1.0,No
+187,93354997,25021031,Other causes,01/06/2018,Auto,Yes,Injury only,$31270,1.0,No
+188,61761215,2590748,Other driver error,10/03/2018,Auto,Unknown,Material and injury,$30530,2.0,No
+189,17871003,98905793,Other driver error,09/19/2018,Auto,Unknown,Material only,$3139.5,3.0,Yes
+190,90504501,39495715,Driver error,08/31/2017,Auto,No,Material only,$2470,1.0,No
+191,23636125,64840478,Other driver error,01/01/2017,Auto,Unknown,Material and injury,$17290,1.0,No
+192,73972734,30541131,Other driver error,08/11/2017,Home,Unknown,Material only,$1570,1.0,No
+193,2322078,51503228,Driver error,12/17/2017,Auto,Unknown,Injury only,$14330,3.0,No
+194,94870378,57959733,Other driver error,07/22/2017,Auto,No,Material only,$2530,3.0,No
+195,46572741,82415154,Other driver error,06/11/2017,Auto,No,Material and injury,$15240,1.0,No
+196,50960913,67861420,Other causes,02/15/2018,Auto,No,Material only,$1880,1.0,No
+197,91841652,16811546,Crime,08/10/2018,Auto,Unknown,Injury only,$37200,1.0,No
+198,73800450,74840885,Crime,03/14/2018,Home,Unknown,Material only,$2060,5.0,No
+199,14457951,95719884,Crime,05/22/2017,Auto,Unknown,Material only,$1020,1.0,No
+200,82692173,22856223,Other causes,04/12/2017,Auto,No,Material and injury,$40660,1.0,No
+201,2262550,26965990,Other causes,02/23/2017,Auto,Unknown,Material only,$2310,1.0,No
+202,91210035,48447568,Driver error,10/24/2017,Auto,No,Material and injury,$15920,1.0,No
+203,19333178,16102401,Driver error,08/18/2017,Home,Yes,Material only,$2710,1.0,No
+204,36685947,26448215,Natural causes,02/03/2017,Auto,No,Material only,$2290,1.0,No
+205,84933468,40922910,Other driver error,02/03/2017,Auto,No,Material only,$1180,4.0,No
+206,61672806,43293983,Other causes,08/11/2017,Auto,No,Material only,$3059,1.0,Yes
+207,1189987,51195864,Other driver error,09/20/2017,Auto,Unknown,Material only,$1630,2.0,No
+208,43722644,36395486,Other causes,01/07/2017,Home,No,Material only,$3335,3.0,Yes
+209,24499353,32850276,Natural causes,10/09/2018,Home,No,Material only,$1580,1.0,No
+210,70086627,94041088,Natural causes,12/10/2017,Home,Unknown,Material only,$2645,1.0,Yes
+211,97233183,90718924,Other causes,01/21/2017,Home,No,Material and injury,$27560,1.0,No
+212,70332189,51278451,Other driver error,03/01/2018,Auto,Unknown,Material and injury,$20660,1.0,No
+213,3883874,16868327,Driver error,01/14/2017,Auto,No,Material only,$1400,1.0,No
+214,94714143,32269248,Other driver error,07/07/2018,Auto,Yes,Injury only,$30350,1.0,No
+215,22295924,35410919,Crime,06/04/2017,Auto,No,Material only,$1740,3.0,No
+216,80976947,20716946,Other driver error,03/21/2018,Auto,No,Material and injury,$21830,1.0,No
+217,93075008,90102508,Natural causes,03/28/2018,Auto,No,Material only,$1280,1.0,No
+218,46968995,40744509,Other causes,06/25/2017,Auto,No,Material and injury,$34770,4.0,No
+219,23840141,51460517,Other causes,06/18/2017,Auto,Unknown,Material only,$1391.5,1.0,Yes
+220,5694962,9677945,Other causes,09/26/2018,Auto,No,Material only,$1520,1.0,No
+221,3485777,34297743,Natural causes,07/28/2017,Auto,No,Material only,$1700,1.0,No
+222,49735712,17682060,Crime,10/30/2018,Home,Unknown,Material and injury,$17020,1.0,No
+223,718760,29750601,Other driver error,10/24/2017,Auto,Unknown,Injury only,$31980,1.0,No
+224,81849361,97698815,Natural causes,02/17/2017,Auto,Unknown,Material only,$1860,1.0,No
+225,19639145,28920170,Crime,11/13/2017,Auto,No,Material and injury,$41365.5,1.0,Yes
+226,6535473,55572419,Other causes,05/09/2017,Auto,Yes,Injury only,$27520,1.0,No
+227,61374372,77219712,Other causes,01/01/2017,Auto,No,Material and injury,$20200,1.0,No
+228,24759210,39286853,Other driver error,10/03/2018,Auto,Unknown,Injury only,$35830,1.0,No
+229,6795457,47226965,Driver error,09/07/2017,Auto,No,Material only,$2600,4.0,No
+230,27087847,68757979,Natural causes,10/31/2017,Auto,No,Material only,$2410,1.0,No
+231,93818470,69956308,Natural causes,01/13/2018,Auto,Yes,Material only,$3312,4.0,Yes
+232,65784642,47603757,Driver error,04/24/2018,Auto,No,Material only,$2980,1.0,No
+233,98203403,83534717,Natural causes,04/12/2017,Auto,No,Material only,$1680,1.0,No
+234,52377605,40480522,Driver error,10/30/2018,Auto,Unknown,Material and injury,$26310,1.0,No
+235,79350008,86597605,Driver error,09/27/2017,Auto,No,Material and injury,$37400,1.0,No
+236,35620656,7829022,Driver error,11/13/2017,Auto,No,Material only,$2320,1.0,No
+237,95022138,77985379,Other driver error,07/01/2017,Auto,Yes,Material and injury,$27610,2.0,No
+238,24834777,2826434,Driver error,04/25/2017,Home,No,Injury only,$22100,1.0,No
+239,94426134,16548727,Other causes,11/06/2017,Auto,Yes,Material only,$1080,3.0,No
+240,67394855,94267140,Other driver error,04/12/2017,Auto,No,Material only,$1590,1.0,No
+241,15859475,5637733,Crime,10/10/2017,Auto,Unknown,Material only,$2170,1.0,No
+242,7238381,684748,Other driver error,07/14/2018,Auto,No,Material only,$2920,2.0,No
+243,27131115,65047878,Natural causes,02/03/2017,Auto,Unknown,Material only,$1679,4.0,Yes
+244,63175077,84614509,Driver error,06/23/2018,Home,Unknown,Injury only,$18308,1.0,Yes
+245,4869668,93766634,Other causes,06/23/2018,Auto,No,Injury only,$16940,1.0,No
+246,29078722,68712439,Other driver error,06/17/2018,Home,No,Material only,$1600,1.0,No
+247,62679663,88785895,Driver error,02/22/2018,Auto,Unknown,Material and injury,$39307,1.0,Yes
+248,29981557,33924586,Natural causes,04/04/2018,Auto,Unknown,Material and injury,$28750,1.0,No
+249,59259291,1852176,Driver error,04/17/2018,Auto,Unknown,Material only,$1510,1.0,No
+250,35839635,58107776,Other driver error,04/25/2017,Auto,Yes,Material only,$1030,1.0,No
+251,46356995,30743608,Other causes,03/22/2017,Auto,No,Material only,$2714,1.0,Yes
+252,44524224,50530333,Crime,06/04/2017,Auto,Unknown,Material only,$2415,3.0,Yes
+253,56720636,29282358,Other driver error,01/13/2018,Auto,No,Material and injury,$39280,2.0,No
+254,5854580,55375167,Crime,04/05/2017,Home,Unknown,Material only,$1403,3.0,Yes
+255,24230132,37692329,Driver error,08/16/2018,Auto,No,Material and injury,$34300,1.0,No
+256,13479108,2753882,Natural causes,07/01/2017,Auto,No,Material only,$2650,1.0,No
+257,63532473,88219691,Other causes,09/14/2017,Auto,No,Injury only,$23960,1.0,No
+258,25246596,67722830,Driver error,08/04/2017,Auto,No,Material only,$1529.5,3.0,Yes
+259,31574986,11321295,Driver error,02/03/2017,Auto,No,Material only,$2460,2.0,No
+260,6267263,28502965,Natural causes,10/10/2017,Auto,No,Material only,$1620,1.0,No
+261,99444302,51782731,Other driver error,02/03/2017,Home,Unknown,Material only,$2790,1.0,No
+262,75651365,76395629,Other causes,01/27/2017,Auto,No,Material only,$1210,1.0,No
+263,18499217,20960664,Natural causes,08/10/2018,Auto,Yes,Injury only,$19676.5,1.0,Yes
+264,56848907,79683883,Other driver error,09/07/2017,Auto,No,Material and injury,$27266.5,1.0,Yes
+265,30755644,33388786,Other causes,04/18/2017,Auto,Yes,Injury only,$33590,2.0,No
+266,2741337,52361935,Natural causes,10/17/2017,Auto,Yes,Material only,$2840,1.0,No
+267,86070727,97038550,Other driver error,02/22/2018,Home,Unknown,Material and injury,$16790,1.0,No
+268,2913034,25911554,Natural causes,06/03/2018,Auto,No,Material only,$1322.5,3.0,Yes
+269,74906328,43834942,Natural causes,07/01/2017,Auto,Yes,Material and injury,$19900,1.0,No
+270,95114913,17242900,Crime,11/13/2017,Auto,No,Material only,$2440,1.0,No
+271,34621474,54094880,Other driver error,02/17/2017,Auto,No,Material only,$1529.5,1.0,Yes
+272,52223434,59809467,Other driver error,05/28/2018,Auto,Unknown,Material only,,,Yes
+273,93028492,62204138,Driver error,10/31/2017,Auto,Unknown,Material only,$2691,1.0,Yes
+274,76384782,93993324,Driver error,06/04/2017,Auto,No,Material only,$3128,1.0,Yes
+275,79219792,84995304,Other driver error,08/30/2018,Home,Unknown,Material only,$3036,1.0,Yes
+276,25014071,70955654,Crime,10/04/2017,Home,No,Material only,$1173,1.0,Yes
+277,86017636,43274276,Other driver error,02/15/2018,Auto,No,Material only,$1200,4.0,No
+278,45535504,23236713,Driver error,03/14/2018,Auto,Yes,Injury only,$29960,1.0,No
+279,80169462,76501371,Driver error,02/15/2018,Auto,Unknown,Material only,$1970,1.0,No
+280,42474249,56554262,Other causes,10/09/2018,Auto,No,Material only,$2090,1.0,No
+281,4567648,48123202,Other driver error,08/31/2017,Auto,No,Material only,$2640,,No
+282,99775483,93915431,Other causes,10/30/2018,Auto,No,Material and injury,$42124.5,1.0,Yes
+283,8322480,38560100,Other driver error,03/16/2017,Auto,No,Injury only,$21330,3.0,No
+284,83960449,31544049,Driver error,11/27/2017,Auto,Unknown,Material only,$1817,1.0,Yes
+285,66563034,68615086,Driver error,07/07/2018,Auto,No,Material and injury,$17670,1.0,No
+286,95437929,55535045,Driver error,04/05/2017,Auto,No,Material only,$1110,1.0,No
+287,94981713,17988592,Other causes,07/28/2017,Auto,No,Material and injury,$32407,1.0,Yes
+288,59593960,4883962,Driver error,07/15/2017,Auto,Yes,Material only,$1460,1.0,No
+289,4367748,33812279,Other causes,05/22/2017,Auto,Yes,Injury only,$41779.5,1.0,Yes
+290,96241162,81854173,Other driver error,05/09/2017,Auto,Unknown,Material only,$1850,1.0,No
+291,11682102,24579061,Natural causes,01/07/2017,Auto,No,Material only,$1770,1.0,No
+292,26104084,29478976,Crime,05/21/2018,Auto,No,Material only,$1160,1.0,No
+293,38641457,10462042,Other causes,08/03/2018,Home,No,Material only,$2410,1.0,No
+294,51316495,52265112,Other driver error,06/11/2017,Auto,No,Material only,$1520,2.0,No
+295,68533229,53900680,Other causes,03/29/2017,Home,Yes,Material and injury,$33900,2.0,No
+296,70210720,69784779,Other driver error,05/21/2018,Auto,Yes,Material and injury,$28740,1.0,No
+297,38508652,26810768,Other causes,07/01/2017,Auto,No,Material and injury,$23980,3.0,No
+298,10080081,82637319,Other causes,10/31/2017,Auto,Unknown,Material only,$1184.5,1.0,Yes
+299,6515806,69546065,Crime,06/18/2017,Auto,Unknown,Material only,$2104.5,1.0,Yes
+300,2056210,67427492,Driver error,05/29/2017,Auto,No,Material only,$1040,1.0,No
+301,2581621,18213216,Other causes,09/12/2018,Auto,Unknown,Material and injury,$21942,2.0,Yes
+302,25688619,98204394,Driver error,02/10/2017,Home,Unknown,Material only,$1550,6.0,No
+303,43680480,63413368,Driver error,06/30/2018,Auto,No,Material only,$1740,2.0,No
+304,14698666,91136854,Other driver error,01/06/2018,Auto,No,Material only,$2240,4.0,No
+305,18917146,11187680,Other driver error,03/29/2017,Auto,Unknown,Material only,$2440,1.0,No
+306,82224237,88205075,Other causes,03/16/2017,Auto,Unknown,Injury only,$16460,1.0,No
+307,52339239,40728123,Other causes,02/10/2017,Auto,No,Material only,$2590,1.0,No
+308,9476314,65176092,Other causes,01/01/2017,Auto,No,Material and injury,$37290,3.0,No
+309,56133273,84229777,Natural causes,08/11/2017,Auto,No,Material only,$3128,1.0,Yes
+310,79752814,76093960,Other causes,05/29/2017,Auto,Unknown,Material only,$2700,2.0,No
+311,71517851,36994344,Natural causes,07/27/2018,Auto,No,Material only,$2280,1.0,No
+312,29519925,68043300,Other driver error,03/21/2018,Auto,Unknown,Material only,$2656.5,1.0,Yes
+313,2980099,28901669,Crime,02/02/2018,Auto,Yes,Injury only,$35178.5,1.0,Yes
+314,59959117,86916099,Other driver error,04/05/2017,Auto,No,Injury only,$19390,1.0,No
+315,87350000,29826894,Other driver error,11/06/2017,Auto,No,Material only,$2730,5.0,No
+316,87230026,79637467,Other causes,02/17/2017,Auto,Yes,Injury only,$16700,1.0,No
+317,9588683,36632227,Other driver error,03/09/2017,Auto,Unknown,Material only,$2886.5,1.0,Yes
+318,87329176,77510822,Other driver error,10/30/2018,Auto,Unknown,Material only,,2.0,No
+319,3329988,2651069,Other driver error,09/07/2017,Auto,No,Material only,$1932,1.0,Yes
+320,72207767,8150738,Natural causes,05/01/2018,Auto,Unknown,Material only,$2210,1.0,No
+321,96723243,67268108,Other driver error,03/08/2018,Auto,Yes,Material and injury,$41280,2.0,No
+322,14024069,53907868,Other causes,04/17/2018,Auto,Unknown,Material and injury,$26620,1.0,No
+323,74762827,86246733,Driver error,12/10/2017,Auto,Unknown,Material and injury,$26520,2.0,No
+324,78826857,45568489,Other driver error,05/09/2017,Auto,Yes,Material and injury,$14480,3.0,No
+325,96335300,28032985,Other causes,03/02/2017,Auto,No,Material only,$1800,2.0,No
+326,45953414,33210182,Crime,01/13/2018,Auto,Yes,Material only,$2020,1.0,No
+327,81667658,24731784,Natural causes,07/07/2018,Auto,No,Material only,$1260,1.0,No
+328,5222877,36126424,Driver error,10/23/2018,Auto,Unknown,Material and injury,$20550,1.0,No
+329,76523655,95452498,Other causes,04/05/2017,Auto,No,Material only,$2219.5,1.0,Yes
+330,70512964,22756942,Driver error,01/01/2017,Auto,Yes,Injury only,$20310,1.0,No
+331,13217364,62489316,Other causes,08/31/2017,Auto,No,Material only,$2330,1.0,No
+332,6174643,4825461,Other driver error,07/15/2017,Auto,Yes,Material and injury,$32960,1.0,No
+333,89056979,63915259,Other causes,09/26/2018,Home,Yes,Material and injury,$18530,1.0,No
+334,94690483,6723724,Natural causes,09/27/2017,Auto,Unknown,Material only,$1679,1.0,Yes
+335,84029944,51719336,Other causes,01/20/2018,Home,Unknown,Material only,$2070,1.0,Yes
+336,52259939,89808931,Driver error,07/20/2018,Home,No,Material only,$2750,1.0,No
+337,40350951,55105629,Natural causes,10/17/2017,Auto,No,Material only,$1860,1.0,No
+338,71274497,79076502,Other driver error,10/31/2017,Auto,Unknown,Material only,$1380,1.0,No
+339,49550521,81131066,Other causes,12/30/2017,Auto,No,Material only,$1920,2.0,No
+340,45433267,75995055,Other causes,06/17/2018,Auto,Yes,Injury only,$36350,1.0,No
+341,43558718,24425429,Natural causes,10/16/2018,Auto,No,Material only,$1450,1.0,No
+342,3465669,51382348,Natural causes,02/23/2017,Home,No,Injury only,$39928,1.0,Yes
+343,79446773,18842829,Driver error,03/02/2017,Auto,No,Material only,$2450,1.0,No
+344,172149,98180346,Other causes,06/04/2017,Auto,No,Material only,$2810,1.0,No
+345,52442756,53013094,Natural causes,06/30/2018,Auto,Unknown,Material only,,1.0,No
+346,79612644,25263633,Other causes,06/10/2018,Auto,No,Material only,$2470,2.0,No
+347,61900903,16444738,Other causes,08/31/2017,Auto,No,Material only,$1207.5,1.0,Yes
+348,15605014,64231993,Natural causes,03/01/2018,Home,No,Material and injury,$29690,1.0,No
+349,81628285,89530919,Driver error,04/24/2018,Auto,No,Material only,$2450,1.0,No
+350,98795403,38011078,Crime,10/30/2018,Auto,Unknown,Material only,$1940,1.0,No
+351,49252712,76314493,Other driver error,09/14/2017,Home,No,Material only,,1.0,No
+352,60882662,51975640,Other driver error,10/16/2018,Auto,No,Material and injury,$32150,2.0,No
+353,35866339,47593642,Crime,04/04/2018,Auto,Unknown,Material only,$1750,1.0,No
+354,80529502,42439009,Driver error,03/01/2018,Auto,Unknown,Injury only,$28950,1.0,No
+355,41063309,51613894,Other causes,03/28/2018,Home,Unknown,Material and injury,,1.0,No
+356,69278867,49078798,Natural causes,02/02/2018,Auto,No,Material only,$1350,1.0,No
+357,49821811,17822772,Driver error,03/14/2018,Auto,Unknown,Injury only,$33200,1.0,No
+358,34596802,94643289,Driver error,03/14/2018,Auto,No,Material and injury,$45287,1.0,Yes
+359,3366766,47535244,Natural causes,06/10/2018,Auto,No,Material only,$2530,1.0,Yes
+360,18972174,70770204,Driver error,04/17/2018,Auto,Unknown,Injury only,$28050,1.0,No
+361,32084957,92171044,Driver error,07/15/2017,Auto,No,Material only,$2277,1.0,Yes
+362,44626119,98218159,Other driver error,12/10/2017,Auto,No,Material only,$2840,1.0,No
+363,18497939,24112592,Other driver error,03/28/2018,Auto,No,Material only,$2130,1.0,No
+364,2031695,97053819,Other causes,06/03/2018,Auto,No,Material only,$2070,1.0,No
+365,31272774,88484857,Other causes,09/19/2018,Auto,No,Material only,$1900,,No
+366,62487859,89965541,Driver error,12/10/2017,Auto,No,Material only,$2810,1.0,No
+367,1374365,96431710,Crime,08/24/2017,Auto,No,Material and injury,$24713.5,1.0,Yes
+368,33911305,13059025,Natural causes,07/28/2017,Auto,No,Material only,$2220,1.0,No
+369,3311108,49481916,Other causes,09/19/2018,Auto,No,Material only,,2.0,Yes
+370,28520503,10956208,Natural causes,02/02/2018,Auto,No,Material only,$1210,1.0,No
+371,76387481,43059280,Natural causes,06/25/2017,Home,Yes,Material and injury,$38970,1.0,No
+372,92399694,92971195,Other driver error,09/26/2018,Home,No,Material only,$1140,1.0,No
+373,49171996,97578924,Other causes,08/23/2018,Home,No,Material only,$2360,1.0,No
+374,33733739,81790039,Driver error,03/22/2017,Auto,No,Material and injury,$19640,1.0,No
+375,27931854,36812323,Other driver error,01/27/2017,Auto,Yes,Material and injury,$14170,1.0,No
+376,86062955,63544225,Crime,08/30/2018,Auto,No,Material only,$1100,1.0,No
+377,70068,4669941,Driver error,11/06/2017,Auto,Unknown,Injury only,$29900,1.0,Yes
+378,77337624,64395359,Other causes,05/22/2017,Auto,Yes,Injury only,$20970,1.0,No
+379,36457152,25634799,Driver error,01/01/2017,Auto,No,Material only,$2900,2.0,No
+380,67359535,31654316,Other driver error,04/05/2017,Home,Unknown,Material and injury,$35800,3.0,No
+381,38907463,49499709,Driver error,05/15/2017,Auto,No,Material only,$2130,2.0,No
+382,43384286,45415342,Other causes,06/03/2018,Auto,No,Material and injury,$24080,1.0,No
+383,18696192,72734097,Driver error,07/01/2017,Auto,Yes,Material and injury,$34590,1.0,No
+384,27981652,94707309,Crime,02/17/2017,Auto,No,Material only,$1870,3.0,No
+385,34691767,84750181,Other driver error,03/09/2017,Home,No,Material only,$2370,4.0,No
+386,47497964,58380749,Other driver error,12/10/2017,Auto,Yes,Injury only,$26130,1.0,No
+387,6794881,42345842,Other causes,12/24/2017,Auto,Unknown,Material only,$1150,1.0,Yes
+388,26044648,54103924,Driver error,04/24/2018,Auto,Unknown,Material and injury,$23370,3.0,No
+389,10605433,48099288,Other causes,10/09/2018,Auto,No,Material only,$2090,1.0,No
+390,11113092,57896241,Driver error,04/05/2017,Auto,Unknown,Material and injury,$30420,1.0,No
+391,83523623,70730377,Driver error,03/14/2018,Auto,No,Material only,$2750,2.0,No
+392,61143364,6125426,Other driver error,01/13/2018,Auto,No,Material only,,1.0,No
+393,71246528,48227009,Natural causes,01/20/2018,Auto,No,Material only,$1570,1.0,No
+394,66730599,86308184,Other driver error,08/04/2017,Auto,Yes,Material only,$1110,1.0,No
+395,94242984,69065193,Other driver error,10/09/2018,Auto,Unknown,Material and injury,$36075.5,4.0,Yes
+396,95444389,79846638,Crime,03/09/2017,Auto,No,Material only,$1260,1.0,No
+397,47371265,38047917,Driver error,12/17/2017,Auto,Yes,Injury only,$22440,1.0,No
+398,18736499,73611258,Other driver error,08/11/2017,Auto,No,Injury only,$21620,1.0,No
+399,58956535,14696479,Other causes,02/23/2017,Auto,No,Material only,$1540,1.0,No
+400,6683382,25166037,Other driver error,04/12/2017,Home,Unknown,Injury only,$24610,1.0,No
+401,50906515,1123356,Crime,08/23/2018,Auto,No,Material only,$2507,5.0,Yes
+402,71712774,97162684,Other causes,08/18/2017,Auto,Unknown,Material and injury,$20769,1.0,Yes
+403,24181936,95055469,Crime,08/18/2017,Auto,No,Material only,$2990,1.0,No
+404,7575702,56985179,Driver error,10/17/2017,Auto,No,Material only,$2967,4.0,Yes
+405,25993027,69039320,Driver error,06/03/2018,Auto,No,Material only,$1780,1.0,No
+406,22476290,84514444,Other causes,07/08/2017,Auto,No,Injury only,$30840,5.0,No
+407,75954321,79953263,Other causes,03/28/2018,Auto,Yes,Injury only,$32680,1.0,No
+408,50921792,15557396,Other causes,10/17/2017,Auto,Yes,Material and injury,,3.0,No
+409,21915563,95002919,Natural causes,06/30/2018,Home,No,Material and injury,$31110,1.0,No
+410,75623323,7612094,Natural causes,09/06/2018,Auto,No,Material only,$2771.5,1.0,Yes
+411,48509529,53260501,Natural causes,03/02/2017,Auto,No,Material only,$1000,1.0,No
+412,87476916,92072156,Natural causes,09/12/2018,Auto,Yes,Material only,$2970,1.0,No
+413,25416969,77570823,Natural causes,06/25/2017,Auto,No,Material only,$2230,1.0,No
+414,24709692,69010101,Natural causes,04/25/2017,Auto,Unknown,Material only,$3427,1.0,Yes
+415,26773102,1223055,Natural causes,10/31/2017,Auto,Yes,Injury only,$33490,3.0,No
+416,92714664,9884792,Driver error,09/14/2017,Auto,Unknown,Injury only,$29630,1.0,No
+417,3502909,1144598,Driver error,03/22/2017,Auto,Unknown,Injury only,$25010,1.0,No
+418,26836009,59716520,Other causes,11/27/2017,Home,No,Material only,$1020,1.0,No
+419,43253975,59056552,Driver error,06/30/2018,Auto,Yes,Injury only,,1.0,No
+420,9075822,25164999,Other driver error,03/08/2018,Auto,No,Material only,$1909,1.0,Yes
+421,34549771,70761779,Other causes,08/24/2017,Auto,Unknown,Injury only,$14460,6.0,No
+422,1756485,62934102,Other driver error,05/21/2018,Auto,Yes,Material and injury,$39280,3.0,No
+423,75847149,11472207,Natural causes,12/30/2017,Auto,Unknown,Material and injury,$44367,1.0,Yes
+424,1624094,97856694,Natural causes,03/02/2017,Auto,Unknown,Material only,$2392,1.0,Yes
+425,13132889,86818440,Other causes,03/21/2018,Auto,Unknown,Material and injury,$31901,1.0,Yes
+426,22577147,66433138,Driver error,02/23/2017,Auto,No,Material and injury,$21447.5,2.0,Yes
+427,24589924,87806611,Other causes,03/14/2018,Auto,Unknown,Material only,$2950,1.0,No
+428,43099766,36252121,Driver error,11/06/2017,Auto,No,Injury only,$22000,4.0,No
+429,85048276,19916012,Driver error,01/14/2017,Auto,No,Material only,$1860,1.0,No
+430,43196799,79440308,Other causes,05/22/2017,Auto,Unknown,Material only,$1620,1.0,No
+431,49818123,23116437,Other driver error,01/21/2017,Auto,No,Material only,,1.0,No
+432,7292900,58957713,Other causes,07/22/2017,Auto,No,Material only,$2806,1.0,Yes
+433,76290659,4798021,Other driver error,05/01/2018,Auto,No,Material only,$1170,1.0,No
+434,84441293,83441797,Other driver error,05/07/2018,Auto,No,Material only,$1630,2.0,No
+435,12379231,30154531,Other causes,10/04/2017,Auto,No,Material only,$3013,1.0,Yes
+436,47755129,38117638,Other driver error,02/03/2017,Auto,No,Material only,$2060,1.0,No
+437,30272514,12112711,Other driver error,03/16/2017,Auto,No,Material only,$1276.5,1.0,Yes
+438,86258669,4652602,Other causes,08/16/2018,Auto,No,Material only,$1320,1.0,No
+439,95320599,45187280,Other causes,08/11/2017,Auto,Yes,Injury only,$33030,2.0,No
+440,59321838,77930023,Driver error,07/01/2017,Auto,No,Material only,,1.0,Yes
+441,72555621,58934617,Other causes,09/19/2018,Auto,Yes,Injury only,$27002,3.0,Yes
+442,83266482,41182960,Other causes,07/27/2018,Home,No,Material only,$2060,1.0,No
+443,88595857,64488618,Driver error,10/17/2017,Auto,Yes,Material only,$1630,1.0,No
+444,76745084,59793026,Other driver error,09/07/2017,Auto,Yes,Material and injury,$40210,1.0,No
+445,16468239,86621072,Other causes,07/20/2018,Auto,No,Material only,$1173,1.0,Yes
+446,51476665,47250458,Driver error,12/30/2017,Auto,No,Material only,$1630,2.0,No
+447,45642452,35163792,Other causes,07/20/2018,Auto,Yes,Material and injury,$20080,2.0,No
+448,72815943,93871952,Other driver error,07/20/2018,Auto,Yes,Material and injury,$16880,3.0,No
+449,99281527,32464636,Driver error,10/31/2017,Auto,No,Material only,$2323,1.0,Yes
+450,14638010,7583158,Other driver error,03/16/2017,Auto,Yes,Injury only,$19820,,No
+451,8962657,80670612,Other driver error,04/10/2018,Auto,Unknown,Injury only,$20630,5.0,No
+452,58488479,21840201,Driver error,02/09/2018,Auto,Yes,Material only,$1510,1.0,No
+453,40759519,29130403,Driver error,10/03/2018,Auto,No,Material only,,1.0,Yes
+454,32110693,89806715,Crime,08/30/2018,Auto,Unknown,Material only,$1710,1.0,No
+455,93285588,56016139,Natural causes,04/04/2018,Auto,Unknown,Material only,$2219.5,1.0,Yes
+456,88210615,20028241,Driver error,05/29/2017,Auto,No,Material only,$2940,1.0,No
+457,84019240,98341654,Crime,12/03/2017,Auto,Unknown,Material only,$2370,1.0,No
+458,21491548,44643917,Other driver error,09/06/2018,Auto,Yes,Material and injury,$41320,,No
+459,45568058,76185878,Driver error,11/27/2017,Auto,No,Material only,$3231.5,1.0,Yes
+460,63762170,18665169,Other causes,07/22/2017,Auto,No,Injury only,$37500,2.0,No
+461,28889442,17177153,Other causes,09/20/2017,Auto,Unknown,Material only,$2670,1.0,No
+462,61678713,84736739,Other driver error,12/03/2017,Auto,Yes,Material and injury,$35800,1.0,No
+463,6234135,20110599,Other causes,04/05/2017,Auto,Unknown,Material only,$2050,1.0,No
+464,37251197,15635627,Other causes,08/10/2018,Auto,Yes,Material only,,1.0,No
+465,95057151,3374112,Natural causes,03/01/2018,Auto,Yes,Material and injury,$25580,1.0,No
+466,16011067,78415715,Natural causes,10/10/2017,Auto,Unknown,Material and injury,$39370,1.0,No
+467,63446024,83080037,Driver error,01/13/2018,Auto,Unknown,Injury only,$17250,1.0,No
+468,61885878,74017955,Driver error,12/30/2017,Auto,Unknown,Material only,$2090,,No
+469,59248480,33372791,Other causes,06/18/2017,Auto,No,Material only,$2430,1.0,No
+470,11123788,48874104,Natural causes,01/14/2017,Auto,No,Material only,$1700,1.0,No
+471,45511318,61822144,Driver error,08/11/2017,Auto,Unknown,Material only,,1.0,No
+472,23742797,95418320,Driver error,08/30/2018,Auto,No,Material only,$2820,1.0,No
+473,59407693,26450621,Natural causes,05/21/2018,Auto,No,Material only,$2960,1.0,No
+474,46459799,64622520,Natural causes,11/27/2017,Auto,No,Material only,$2170,3.0,No
+475,92089192,32521691,Driver error,10/16/2018,Auto,No,Material only,$2320,4.0,No
+476,28708429,39444603,Driver error,12/03/2017,Auto,No,Material only,$2320,1.0,No
+477,75363718,48960366,Driver error,04/04/2018,Auto,No,Material and injury,$31450,1.0,No
+478,15267466,80701300,Other causes,09/06/2018,Auto,Yes,Material only,$1150,2.0,Yes
+479,38645590,13275896,Natural causes,08/04/2017,Auto,No,Material and injury,$23450,1.0,No
+480,27334507,62816998,Other driver error,05/02/2017,Auto,No,Injury only,$13710,2.0,No
+481,85427127,85700566,Other causes,01/13/2018,Auto,Unknown,Material and injury,$16100,1.0,No
+482,9552601,81138909,Other causes,03/22/2017,Auto,Unknown,Material only,$2580,1.0,No
+483,5182265,31115028,Other driver error,03/28/2018,Auto,Unknown,Material only,$2600,1.0,No
+484,27490821,59843845,Driver error,10/03/2018,Auto,No,Material and injury,$25730,2.0,No
+485,39605405,75471235,Natural causes,08/10/2018,Auto,No,Material and injury,$40540,1.0,No
+486,5425811,37365245,Natural causes,01/14/2017,Auto,No,Material only,$1500,2.0,No
+487,91660260,30886292,Other driver error,08/24/2017,Auto,Unknown,Material only,$2950,1.0,No
+488,30877914,20094340,Natural causes,09/07/2017,Auto,No,Material only,$1060,1.0,No
+489,8981804,40948894,Other driver error,08/24/2017,Auto,Yes,Injury only,$37170,,No
+490,18428326,59903277,Other causes,03/29/2017,Auto,No,Material only,$2185,2.0,Yes
+491,80956687,4412055,Other causes,06/30/2018,Auto,Unknown,Material and injury,$37869.5,4.0,Yes
+492,81516433,63302691,Crime,05/21/2018,Auto,No,Material only,$1820,1.0,No
+493,50068652,69473158,Driver error,08/30/2018,Auto,No,Material only,$2070,1.0,No
+494,58428742,30943507,Driver error,05/21/2018,Auto,No,Material and injury,$16040,1.0,No
+495,78382955,88072232,Other driver error,06/04/2017,Auto,Yes,Material and injury,$27310,3.0,No
+496,49401942,17859000,Crime,02/10/2017,Auto,No,Material only,$2550,1.0,No
+497,69139904,44758258,Driver error,06/18/2017,Auto,Unknown,Material and injury,$27910,1.0,No
+498,43043339,59389375,Other causes,12/17/2017,Auto,Yes,Injury only,$29480,3.0,No
+499,11023718,56357617,Natural causes,04/04/2018,Auto,Unknown,Material only,$1300,1.0,No
+500,76743826,82034436,Other causes,12/24/2017,Auto,No,Injury only,$37630,1.0,No
+501,50964521,85532819,Driver error,11/06/2017,Auto,Yes,Material and injury,$25950,3.0,No
+502,73283463,23741962,Other causes,08/16/2018,Auto,Unknown,Material and injury,$27240,1.0,No
+503,64388927,96543848,Other driver error,08/31/2017,Auto,No,Injury only,$30340,1.0,No
+504,81102722,91135917,Other driver error,09/12/2018,Auto,No,Material only,$2710,1.0,No
+505,35782742,524545,Other driver error,07/27/2018,Auto,No,Injury only,$35250,3.0,No
+506,75276533,89479887,Driver error,03/09/2017,Home,Yes,Injury only,$38890,2.0,No
+507,42320818,73495163,Driver error,12/03/2017,Auto,Yes,Material and injury,$22570,1.0,No
+508,60904940,49889657,Natural causes,05/01/2018,Auto,Unknown,Material only,$1140,1.0,No
+509,32944599,96931053,Other causes,06/23/2018,Home,Yes,Injury only,$38120,1.0,No
+510,4881066,1300972,Crime,03/21/2018,Home,No,Material only,$2369,1.0,Yes
+511,96406656,83887508,Crime,11/06/2017,Auto,No,Material only,,3.0,Yes
+512,89967218,53897607,Other causes,03/02/2017,Auto,Unknown,Material only,$1200,1.0,No
+513,63627029,92392817,Other driver error,12/24/2017,Auto,Unknown,Material only,$2081.5,1.0,Yes
+514,75778891,75086914,Other causes,04/10/2018,Auto,No,Material only,$1050,1.0,No
+515,88804995,27868943,Other driver error,11/27/2017,Auto,No,Material only,$2550,2.0,No
+516,73841606,42238302,Driver error,11/13/2017,Auto,Unknown,Material only,$2590,2.0,No
+517,49124611,83882449,Driver error,09/20/2017,Home,Yes,Material only,$1644.5,1.0,Yes
+518,40460618,53191091,Crime,03/22/2017,Auto,Unknown,Material only,$1265,1.0,Yes
+519,64046224,55836042,Driver error,03/08/2018,Home,No,Material only,$1863,1.0,Yes
+520,9124181,19796899,Other driver error,04/04/2018,Auto,Yes,Material and injury,$24667.5,1.0,Yes
+521,42019165,42014103,Driver error,12/30/2017,Home,No,Material only,$2288.5,4.0,Yes
+522,57175639,66632396,Driver error,08/11/2017,Auto,No,Material only,$1810,1.0,No
+523,56413364,34778857,Driver error,04/25/2017,Auto,Unknown,Material and injury,$30015,1.0,Yes
+524,4257735,28437868,Other driver error,09/26/2018,Auto,No,Material only,$1300,1.0,No
+525,98954915,85641672,Crime,03/14/2018,Auto,No,Material only,$1860,1.0,No
+526,49758082,86985239,Driver error,06/18/2017,Auto,No,Material and injury,$40880,1.0,No
+527,2434059,19409471,Other driver error,06/18/2017,Auto,No,Material only,$1550,1.0,No
+528,70156112,98537509,Driver error,06/03/2018,Auto,Unknown,Material and injury,$20033,3.0,Yes
+529,25838638,36871042,Other causes,04/25/2017,Auto,No,Material and injury,$20230,1.0,No
+530,16726169,62206180,Driver error,06/17/2018,Auto,No,Material only,$1670,2.0,No
+531,74582054,6448629,Other causes,04/17/2018,Auto,Unknown,Material only,$2714,1.0,Yes
+532,78146904,30197131,Other driver error,06/17/2018,Auto,No,Injury only,$19297,1.0,Yes
+533,95997859,7988398,Driver error,07/22/2017,Auto,Unknown,Injury only,$14720,1.0,No
+534,37688454,13687085,Driver error,01/13/2018,Auto,Unknown,Injury only,$16760,1.0,No
+535,32756328,30864915,Driver error,05/28/2018,Auto,No,Material only,$2440,1.0,No
+536,80167666,44665885,Other driver error,07/07/2018,Auto,Yes,Material and injury,$40170,1.0,No
+537,2772206,14604149,Driver error,03/29/2017,Auto,Yes,Material and injury,$36350,1.0,No
+538,41574198,9600820,Other causes,09/06/2018,Auto,Unknown,Injury only,$29830,1.0,No
+539,51377827,54275114,Other driver error,05/14/2018,Auto,Yes,Material and injury,$29530,1.0,No
+540,81369109,24065986,Natural causes,10/03/2018,Home,Yes,Injury only,$34970,1.0,No
+541,62827687,52208972,Other causes,02/02/2018,Home,No,Material only,$2550,1.0,No
+542,22489374,13435761,Natural causes,04/18/2017,Auto,No,Material only,$2590,1.0,No
+543,55881539,64916376,Other causes,01/27/2017,Auto,No,Material only,$2850,2.0,No
+544,49545697,35895151,Driver error,03/08/2018,Auto,No,Material only,$2470,3.0,No
+545,2248378,8201624,Natural causes,05/22/2017,Auto,No,Material only,$2932.5,4.0,Yes
+546,21658094,55933927,Other causes,07/20/2018,Home,No,Material and injury,$27404.5,2.0,Yes
+547,86096444,65899365,Driver error,07/14/2018,Auto,No,Material and injury,$34160,1.0,No
+548,32067078,57025376,Other driver error,05/15/2017,Auto,No,Material only,$1430,1.0,No
+549,96864459,92189083,Natural causes,05/28/2018,Auto,Yes,Injury only,$19960,4.0,No
+550,45600936,83836752,Other driver error,04/24/2018,Auto,No,Material only,$1480,2.0,No
+551,85493235,43806629,Other driver error,07/07/2018,Home,No,Material only,$2960,3.0,No
+552,65990431,7303971,Natural causes,06/03/2018,Auto,No,Material only,$1170,1.0,No
+553,52113932,35189228,Driver error,06/17/2018,Home,Unknown,Material only,$1280,1.0,No
+554,33229705,47879133,Natural causes,02/22/2018,Auto,No,Material only,$1110,4.0,No
+555,31609133,25550440,Natural causes,03/08/2018,Auto,Unknown,Material and injury,$17721.5,1.0,Yes
+556,48386458,38718253,Other causes,11/13/2017,Auto,Unknown,Injury only,$30060,1.0,No
+557,37692448,44632301,Other driver error,01/06/2018,Auto,Yes,Injury only,$44666,1.0,Yes
+558,50552314,46691405,Other causes,07/22/2017,Auto,Unknown,Injury only,$28230,1.0,No
+559,59164542,96395873,Crime,09/20/2017,Auto,No,Material only,$2410,1.0,No
+560,35976362,25582668,Natural causes,06/11/2017,Auto,No,Material only,$1265,1.0,Yes
+561,61950339,21969808,Natural causes,05/21/2018,Auto,No,Material only,$1725,1.0,Yes
+562,86644908,56525103,Other driver error,04/17/2018,Auto,Unknown,Injury only,$19320,1.0,No
+563,98940053,59510159,Other driver error,05/15/2017,Auto,No,Material only,$2430,3.0,No
+564,49974494,76666463,Crime,08/11/2017,Auto,No,Material only,$1000,2.0,No
+565,26308516,10330113,Other causes,12/17/2017,Auto,No,Material and injury,$29060,3.0,No
+566,9129053,85250389,Other driver error,03/02/2017,Auto,Unknown,Injury only,$24380,1.0,Yes
+567,13865732,17330419,Crime,03/16/2017,Auto,Unknown,Material and injury,$33210,1.0,No
+568,53902980,62935855,Other driver error,08/18/2017,Auto,No,Material only,$2370,1.0,No
+569,52239485,27304494,Other causes,06/17/2018,Auto,Unknown,Material and injury,$26630,1.0,No
+570,53831641,15820948,Driver error,09/27/2017,Auto,Yes,Material and injury,$14570,1.0,No
+571,97044473,25989608,Other driver error,06/18/2017,Auto,No,Material only,$1700,1.0,No
+572,55084633,64214079,Other causes,06/18/2017,Auto,Yes,Material and injury,$30230,1.0,No
+573,54580698,58468142,Natural causes,05/09/2017,Auto,No,Material only,$1300,1.0,No
+574,39063220,12108789,Other causes,03/14/2018,Auto,Yes,Material and injury,$23851,1.0,Yes
+575,37576598,25365364,Other causes,02/10/2017,Auto,No,Material only,$1100,2.0,No
+576,70575561,76339681,Crime,09/06/2018,Home,Unknown,Material only,$1910,1.0,No
+577,97666948,97514724,Driver error,01/01/2017,Home,No,Injury only,$19120,1.0,No
+578,6429479,14501963,Driver error,10/24/2017,Auto,No,Material and injury,$47748,3.0,Yes
+579,76762783,41673539,Crime,01/06/2018,Auto,Yes,Material and injury,$44838.5,1.0,Yes
+580,45452514,47730331,Other causes,08/23/2018,Home,Unknown,Material only,$1580,1.0,No
+581,39518274,91180828,Other causes,09/26/2018,Auto,Unknown,Material and injury,$28382,1.0,Yes
+582,32160912,86237672,Natural causes,02/09/2018,Auto,Unknown,Material only,$1530,1.0,No
+583,6313876,47437882,Other driver error,06/25/2017,Auto,Unknown,Material and injury,$27830,2.0,No
+584,62249925,87092211,Driver error,10/09/2018,Auto,No,Material only,$2340,1.0,No
+585,80402957,49820646,Driver error,09/06/2018,Auto,Unknown,Material and injury,$22011,2.0,Yes
+586,27354249,77542013,Driver error,05/15/2017,Auto,No,Material only,$2540,1.0,No
+587,24770112,40950455,Natural causes,08/24/2017,Auto,No,Material only,$2790,1.0,No
+588,66888980,97115629,Other causes,04/04/2018,Auto,No,Material only,$2910,1.0,No
+589,68461060,30831279,Other causes,01/27/2017,Auto,Yes,Injury only,$20720,1.0,No
+590,54174244,28866353,Crime,09/14/2017,Auto,No,Material only,$2334.5,1.0,Yes
+591,24522981,23142036,Other driver error,08/04/2017,Auto,Yes,Material only,$1600,1.0,No
+592,6643536,89986804,Other causes,11/27/2017,Auto,Yes,Material and injury,$37380,1.0,No
+593,80758625,44467682,Driver error,04/04/2018,Home,No,Material only,$1460,4.0,No
+594,80523716,45812655,Driver error,10/16/2018,Home,No,Material only,$1790,1.0,No
+595,48518908,49531152,Driver error,01/21/2017,Auto,Unknown,Material only,$1040,1.0,No
+596,18739929,5152503,Crime,01/07/2017,Auto,No,Material only,$1759.5,4.0,Yes
+597,94983660,41093135,Driver error,03/08/2018,Auto,Unknown,Material and injury,$29480,1.0,No
+598,73658027,61806100,Crime,09/20/2017,Auto,Unknown,Material only,$1040,2.0,No
+599,81308209,81909700,Natural causes,04/04/2018,Home,No,Material only,$2440,1.0,No
+600,39795153,7891758,Natural causes,07/07/2018,Auto,No,Material only,$1140,1.0,No
+601,29685280,95560169,Other driver error,02/23/2017,Auto,Unknown,Injury only,$34950,1.0,No
+602,77152566,48477566,Other driver error,03/22/2017,Auto,No,Material only,$2980,1.0,No
+603,30280492,84147585,Driver error,01/07/2017,Auto,Unknown,Material only,$2380,1.0,No
+604,23938559,85357756,Driver error,02/23/2017,Auto,No,Material only,$2130,1.0,No
+605,2432399,53539195,Other causes,12/24/2017,Home,No,Material only,$2480,1.0,No
+606,72674711,9775143,Other driver error,06/03/2018,Auto,No,Material only,$2130,1.0,No
+607,54642809,39959491,Driver error,09/06/2018,Auto,Unknown,Material only,$2720,1.0,No
+608,98163164,69355027,Crime,09/26/2018,Auto,Unknown,Material only,$2950,1.0,No
+609,3679965,95639174,Natural causes,08/04/2017,Auto,No,Material only,$2840,4.0,No
+610,68733687,82028774,Driver error,03/29/2017,Auto,Unknown,Material and injury,$38065,4.0,Yes
+611,83531718,48673624,Driver error,10/10/2017,Auto,Yes,Material and injury,$26440,2.0,No
+612,89824066,41009394,Other causes,02/23/2017,Auto,No,Material only,,4.0,Yes
+613,47009317,42726730,Other causes,05/07/2018,Auto,Unknown,Material and injury,$28400,1.0,No
+614,75950191,18062339,Driver error,10/03/2018,Auto,Unknown,Material only,$1320,1.0,No
+615,19454050,6540281,Other causes,01/13/2018,Auto,No,Material only,$2120,1.0,No
+616,41214204,61582066,Natural causes,02/15/2018,Auto,No,Material only,$2000,1.0,No
+617,14042956,49058491,Crime,10/17/2017,Auto,Unknown,Material only,$2150,1.0,No
+618,42133860,3124373,Natural causes,01/21/2017,Auto,Unknown,Material only,$1350,2.0,No
+619,7265365,5345468,Other causes,07/08/2017,Auto,Unknown,Injury only,$18570,1.0,No
+620,78221963,84147585,Driver error,04/10/2018,Auto,Yes,Injury only,$14430,4.0,No
+621,1654201,85357756,Driver error,06/23/2018,Auto,Unknown,Material only,$2510,1.0,No
+622,41779510,53539195,Driver error,10/03/2018,Home,No,Injury only,$25040,1.0,No
+623,47786788,47153140,Natural causes,10/24/2017,Auto,No,Material only,$1700,1.0,No
+624,2725264,34369658,Other causes,05/22/2017,Auto,No,Material only,$2330,1.0,No
+625,7384147,14477985,Natural causes,05/02/2017,Auto,Unknown,Injury only,$13100,5.0,No
+626,36174594,66521317,Natural causes,03/16/2017,Auto,No,Material only,,1.0,No
+627,91772998,9081086,Driver error,04/24/2018,Auto,Yes,Injury only,$34470,1.0,No
+628,8216191,47237571,Other causes,08/16/2018,Home,No,Material and injury,$40930,1.0,No
+629,63017412,30308357,Driver error,04/04/2018,Auto,No,Material only,$1950,6.0,No
+630,91609100,47830476,Natural causes,04/12/2017,Auto,Unknown,Material only,$1440,1.0,No
+631,39219616,19269962,Other causes,09/26/2018,Auto,No,Material only,$2240,2.0,No
+632,91475471,21831191,Driver error,02/09/2018,Auto,Unknown,Material and injury,$36810,1.0,No
+633,67389802,91010040,Crime,08/16/2018,Auto,No,Material only,$2460,1.0,No
+634,17961815,69050904,Natural causes,07/14/2018,Auto,No,Material only,$1060,1.0,No
+635,16637107,69128619,Natural causes,08/23/2018,Home,No,Material and injury,$19040,4.0,No
+636,18226024,76933532,Other causes,01/26/2018,Auto,No,Material only,$2150,3.0,No
+637,83706832,25174766,Other driver error,02/23/2017,Auto,No,Material only,$1060,1.0,No
+638,38488079,38923726,Other causes,07/27/2018,Auto,No,Injury only,$26850,1.0,No
+639,30691877,53225913,Crime,10/31/2017,Auto,No,Material only,$3381,2.0,Yes
+640,52826622,83086717,Driver error,02/17/2017,Auto,No,Material and injury,$23940,1.0,No
+641,22476903,40460125,Other causes,02/03/2017,Auto,No,Material only,$1564,1.0,Yes
+642,86506515,88200222,Crime,03/28/2018,Auto,Unknown,Material only,$1780,1.0,No
+643,69620654,88878373,Other causes,01/21/2017,Auto,Unknown,Material only,$3001.5,2.0,Yes
+644,3487779,97545319,Crime,06/30/2018,Auto,No,Injury only,$33520,1.0,No
+645,75470279,64610611,Driver error,01/26/2018,Auto,Yes,Injury only,$35910,3.0,No
+646,48386154,24310699,Natural causes,01/26/2018,Auto,Unknown,Material only,$1210,1.0,No
+647,52262269,42569977,Other driver error,04/18/2017,Auto,Yes,Material and injury,$36170,1.0,No
+648,79783763,34803042,Driver error,03/21/2018,Auto,No,Material only,$1265,1.0,Yes
+649,89665136,25512276,Driver error,11/13/2017,Auto,No,Material and injury,$16380,1.0,No
+650,40283824,9205013,Driver error,06/17/2018,Auto,Yes,Material and injury,$23430,1.0,No
+651,74043997,29517588,Natural causes,08/03/2018,Auto,No,Material only,$2553,4.0,Yes
+652,45864947,71462870,Crime,11/13/2017,Auto,No,Material only,$1870,3.0,No
+653,54333326,53886536,Driver error,07/28/2017,Auto,No,Material only,$2270,1.0,No
+654,93183406,89279737,Driver error,10/31/2017,Auto,No,Material and injury,$21920,1.0,No
+655,8199355,5027573,Natural causes,02/10/2017,Auto,No,Material only,$1490,1.0,No
+656,10852541,69204774,Other causes,05/01/2018,Auto,No,Material only,$2265.5,1.0,Yes
+657,21734808,9466593,Driver error,08/11/2017,Auto,No,Material only,$1472,1.0,Yes
+658,10245277,30679789,Crime,06/10/2018,Auto,Unknown,Injury only,$36010,2.0,No
+659,63191767,15000907,Driver error,07/08/2017,Auto,No,Material only,$2340,3.0,No
+660,52752958,96795364,Other causes,11/13/2017,Auto,Unknown,Material only,$2250,1.0,No
+661,31711102,33152432,Other driver error,03/01/2018,Auto,No,Material only,$1500,1.0,No
+662,64659108,42867092,Other causes,05/28/2018,Auto,No,Injury only,,1.0,Yes
+663,72987943,47145694,Other driver error,08/31/2017,Auto,No,Material only,$1590,1.0,No
+664,79708200,72833735,Crime,04/24/2018,Auto,Unknown,Material only,$2495.5,1.0,Yes
+665,97455990,3771583,Other causes,01/27/2017,Auto,No,Material only,$1242,1.0,Yes
+666,51408016,8609975,Natural causes,02/10/2017,Auto,No,Material only,$2890,1.0,No
+667,44394229,29235935,Driver error,08/24/2017,Auto,Yes,Injury only,$30500,1.0,No
+668,90369587,35459428,Driver error,03/09/2017,Auto,No,Injury only,$32040,6.0,No
+669,31487982,2917414,Other causes,03/16/2017,Auto,No,Material and injury,$17070,1.0,No
+670,15510973,55982230,Other driver error,01/06/2018,Auto,Unknown,Material and injury,$29428.5,1.0,Yes
+671,40870759,69872861,Other causes,03/02/2017,Home,No,Material only,$2900,3.0,No
+672,81034752,44866465,Other causes,11/13/2017,Auto,Yes,Injury only,$31240,1.0,No
+673,77521871,39554038,Driver error,07/14/2018,Auto,No,Material only,$2047,1.0,Yes
+674,23669610,14712345,Natural causes,01/20/2018,Auto,Unknown,Material only,$1630,1.0,No
+675,61635645,41660480,Driver error,06/23/2018,Home,No,Material only,,1.0,No
+676,95115614,53981675,Driver error,03/21/2018,Auto,No,Material and injury,$21940,1.0,No
+677,45780237,287476,Natural causes,10/17/2017,Auto,Unknown,Material only,$1621.5,2.0,Yes
+678,46992958,58378868,Driver error,04/10/2018,Auto,No,Material only,$1240,2.0,No
+679,37713174,62960540,Other causes,06/03/2018,Auto,No,Injury only,$34390,4.0,No
+680,13952270,36780334,Natural causes,02/22/2018,Auto,No,Material only,$2340,1.0,No
+681,45544311,17814402,Driver error,02/03/2017,Auto,No,Material and injury,$35480,1.0,No
+682,4342527,4420512,Natural causes,01/07/2017,Auto,No,Material only,$1860,1.0,No
+683,16347699,51485708,Crime,09/19/2018,Auto,No,Material only,$2010,1.0,No
+684,88554126,71496799,Natural causes,06/04/2017,Auto,No,Material only,$2520,1.0,No
+685,74280541,85983291,Other causes,05/07/2018,Auto,No,Material only,$1518,3.0,Yes
+686,8623615,29500814,Crime,03/09/2017,Auto,No,Material only,$2150.5,5.0,Yes
+687,41352743,74351384,Driver error,07/20/2018,Auto,No,Material only,,1.0,No
+688,78204177,72363224,Natural causes,01/13/2018,Auto,No,Material only,$1500,1.0,No
+689,47463520,41106063,Driver error,10/03/2018,Home,No,Material only,$2830,1.0,No
+690,38818122,57043846,Other causes,04/05/2017,Auto,Yes,Injury only,$34490,1.0,No
+691,36164960,31740446,Natural causes,03/09/2017,Auto,No,Material only,$2553,1.0,Yes
+692,3271117,17690710,Crime,07/28/2017,Auto,Yes,Injury only,$32180,1.0,No
+693,73337887,50771198,Other causes,04/05/2017,Auto,Yes,Material only,$1020,1.0,No
+694,73456426,23460895,Other causes,08/10/2018,Auto,No,Material and injury,$34994.5,1.0,Yes
+695,50234626,33628817,Other causes,04/12/2017,Auto,Yes,Material only,$2800,1.0,No
+696,85883298,32791401,Driver error,06/18/2017,Auto,No,Material only,$1630,1.0,No
+697,32178193,86491727,Driver error,10/30/2018,Home,Unknown,Material only,$1860,1.0,No
+698,4549014,99674324,Other causes,07/07/2018,Auto,No,Injury only,$21480,1.0,No
+699,57099061,81371138,Other causes,07/28/2017,Auto,No,Material only,$3358,1.0,Yes
+700,16326173,30199988,Other causes,07/28/2017,Auto,No,Material only,$1978,3.0,Yes
+701,90831325,20299691,Natural causes,10/04/2017,Auto,No,Material only,$2093,5.0,Yes
+702,80286970,40591588,Driver error,04/25/2017,Auto,Unknown,Material and injury,$39928,1.0,Yes
+703,86285484,28871739,Other causes,10/09/2018,Auto,No,Material only,$1920.5,1.0,Yes
+704,91324151,46995469,Driver error,08/24/2017,Auto,No,Material only,$2520,1.0,No
+705,71690988,8774687,Other causes,01/20/2018,Auto,No,Material only,,1.0,No
+706,6365892,42083451,Driver error,08/31/2017,Auto,No,Material only,$2400,1.0,No
+707,36047575,50560987,Other causes,09/06/2018,Auto,Unknown,Material and injury,$21700,3.0,No
+708,68716231,88881248,Driver error,04/24/2018,Auto,Yes,Material only,$1610,4.0,No
+709,57073975,30060683,Other causes,01/21/2017,Auto,No,Material only,$2160,1.0,No
+710,12839550,28999720,Crime,07/01/2017,Auto,Unknown,Material only,$2360,1.0,No
+711,92426104,40971431,Other causes,01/14/2017,Auto,No,Material and injury,$46483,1.0,Yes
+712,97877027,46866733,Other driver error,05/07/2018,Auto,Yes,Injury only,,3.0,No
+713,24499029,6563653,Other causes,06/23/2018,Auto,Unknown,Material and injury,$21530,2.0,No
+714,68477126,9959859,Crime,04/12/2017,Auto,No,Material only,$3105,3.0,Yes
+715,75728799,71404791,Other driver error,09/20/2017,Auto,No,Material only,$1368.5,3.0,Yes
+716,90380974,73491590,Other causes,10/17/2017,Home,Unknown,Material only,$2270,4.0,No
+717,70157196,11429044,Other driver error,09/07/2017,Auto,Yes,Material and injury,$33730,1.0,No
+718,3109692,45634936,Other driver error,07/07/2018,Auto,No,Material only,$1890,1.0,No
+719,45237349,71108576,Driver error,01/26/2018,Auto,No,Material and injury,$39997,1.0,Yes
+720,54356654,9017128,Other causes,03/16/2017,Auto,Unknown,Material and injury,$19530,1.0,No
+721,17339152,72587271,Other causes,10/17/2017,Auto,Unknown,Injury only,$18140,2.0,No
+722,77576085,12673582,Other causes,10/31/2017,Auto,Unknown,Injury only,$33400,1.0,No
+723,51004421,44821508,Crime,01/06/2018,Home,No,Material only,$2740,2.0,No
+724,77750303,85683729,Other causes,03/14/2018,Auto,No,Material only,,1.0,No
+725,94869704,90115894,Natural causes,10/04/2017,Auto,Yes,Material only,$2240,1.0,No
+726,51895230,45566276,Natural causes,10/31/2017,Auto,No,Material only,$3231.5,4.0,Yes
+727,88838829,12827745,Natural causes,10/31/2017,Auto,Unknown,Injury only,$19470,1.0,No
+728,26678377,28590552,Other causes,10/23/2018,Auto,Unknown,Material and injury,$25160,1.0,No
+729,74826240,15965441,Driver error,01/06/2018,Auto,No,Material only,$2120,1.0,No
+730,71212663,12779308,Other causes,04/04/2018,Auto,No,Material only,$1560,1.0,No
+731,43635378,53719176,Other driver error,05/14/2018,Auto,Unknown,Injury only,,6.0,Yes
+732,75624437,51842360,Other causes,01/27/2017,Home,No,Material only,$1130,,No
+733,20605494,56398264,Natural causes,01/06/2018,Auto,Unknown,Material only,$2090,2.0,No
+734,34947297,73898057,Other causes,03/21/2018,Auto,Unknown,Material only,$1610,4.0,Yes
+735,92782157,2476913,Driver error,09/07/2017,Auto,No,Injury only,$22130,1.0,No
+736,94080912,66267050,Other causes,12/30/2017,Auto,No,Material only,$2250,1.0,No
+737,78194735,46551094,Other driver error,07/20/2018,Auto,Yes,Material and injury,$33640,1.0,No
+738,80180191,5061178,Other driver error,07/08/2017,Auto,No,Material and injury,$19100,1.0,No
+739,58878919,29323970,Driver error,01/01/2017,Auto,Unknown,Material only,$1840,1.0,Yes
+740,6342208,67243622,Other driver error,01/20/2018,Auto,Unknown,Material only,,1.0,No
+741,39476021,62861487,Other causes,10/23/2018,Auto,Yes,Injury only,$19340,1.0,No
+742,24782645,98083433,Driver error,05/02/2017,Auto,No,Material only,$1120,3.0,No
+743,30927069,15681024,Natural causes,03/22/2017,Auto,No,Material and injury,$14220,1.0,No
+744,65211497,92644503,Other driver error,11/20/2017,Auto,Yes,Injury only,$18650,1.0,No
+745,98646052,65916260,Other driver error,07/07/2018,Auto,No,Material only,$3415.5,1.0,Yes
+746,43489145,34953203,Other driver error,02/23/2017,Auto,Yes,Injury only,$19400,1.0,No
+747,47262068,99961993,Driver error,10/23/2018,Home,No,Material only,$2310,1.0,No
+748,16286241,42098367,Other causes,10/09/2018,Auto,Unknown,Material and injury,$24621.5,1.0,Yes
+749,51587897,9130038,Natural causes,08/31/2017,Auto,No,Material only,$3128,1.0,Yes
+750,2228834,80562391,Crime,03/29/2017,Auto,Unknown,Material only,$3369.5,1.0,Yes
+751,25213498,28932340,Driver error,10/30/2018,Auto,Unknown,Material only,,1.0,No
+752,86303772,79212942,Other driver error,06/23/2018,Auto,Unknown,Material and injury,,1.0,No
+753,63268924,5864769,Crime,12/30/2017,Auto,Yes,Injury only,$34460,1.0,No
+754,30225071,3955265,Other causes,02/17/2017,Auto,Unknown,Material and injury,$37740,1.0,No
+755,18824405,42882285,Natural causes,01/21/2017,Auto,No,Material only,$2357.5,1.0,Yes
+756,38416376,96134505,Other driver error,05/22/2017,Auto,No,Injury only,$33522.5,1.0,Yes
+757,46163490,8375366,Crime,12/03/2017,Auto,Unknown,Material only,$2110,1.0,No
+758,23027360,82000019,Driver error,03/08/2018,Auto,No,Injury only,$33752.5,1.0,Yes
+759,90155895,30394029,Other driver error,07/20/2018,Auto,No,Material only,$1070,3.0,No
+760,95712960,51525336,Other causes,06/04/2017,Auto,Unknown,Injury only,$33465,1.0,Yes
+761,10714529,54963034,Crime,08/03/2018,Auto,Yes,Injury only,$16480,3.0,No
+762,20402925,90876878,Driver error,07/27/2018,Auto,Unknown,Injury only,$13820,1.0,No
+763,19571605,16216085,Other causes,01/20/2018,Auto,No,Material only,$2880,1.0,No
+764,67588341,11982382,Other driver error,09/19/2018,Auto,No,Material only,$1640,1.0,No
+765,7014549,33290806,Driver error,01/14/2017,Auto,No,Material only,$2550,1.0,No
+766,24046062,39628347,Other causes,12/10/2017,Auto,No,Material only,$2220,5.0,No
+767,65853604,84277947,Natural causes,11/06/2017,Auto,No,Material only,$2370,1.0,No
+768,30981307,95856464,Crime,05/29/2017,Auto,No,Material only,$1120,1.0,No
+769,45469731,67335009,Other causes,04/18/2017,Auto,Yes,Material and injury,$20610,1.0,No
+770,99553356,8765210,Other causes,07/08/2017,Auto,No,Material and injury,$34200,1.0,No
+771,94540900,77765211,Driver error,05/01/2018,Home,No,Material only,$2580,1.0,No
+772,91784105,39035416,Other causes,08/11/2017,Auto,Unknown,Material only,$2540,2.0,No
+773,82709186,5264479,Other causes,07/28/2017,Auto,Unknown,Injury only,$24220,1.0,No
+774,40794950,24769711,Driver error,02/10/2017,Auto,Yes,Material and injury,$20380,2.0,No
+775,97253910,98142348,Other causes,07/22/2017,Auto,No,Material only,$2564.5,2.0,Yes
+776,17672041,22328083,Other causes,05/02/2017,Auto,Yes,Material and injury,$30170,2.0,No
+777,42920871,85984961,Natural causes,05/14/2018,Auto,Unknown,Material only,$3231.5,1.0,Yes
+778,4401566,46937376,Natural causes,06/18/2017,Auto,No,Material only,$1980,1.0,No
+779,89430255,54252815,Other causes,03/14/2018,Auto,Unknown,Injury only,$16680,1.0,No
+780,64295252,17774827,Other causes,10/10/2017,Auto,No,Material only,$1370,1.0,No
+781,60065436,80544918,Crime,08/11/2017,Auto,No,Material only,$1430,1.0,No
+782,12799217,18818283,Natural causes,10/23/2018,Auto,No,Material only,,3.0,No
+783,49968358,22370979,Other driver error,02/17/2017,Auto,Yes,Material and injury,$24050,2.0,No
+784,78332196,88623068,Other causes,12/17/2017,Auto,Yes,Material and injury,$15040,1.0,No
+785,56742072,89044601,Driver error,10/24/2017,Auto,No,Material and injury,$17951.5,1.0,Yes
+786,98596005,73876237,Driver error,09/12/2018,Auto,No,Material only,$2130,1.0,No
+787,39451038,47585713,Other causes,03/29/2017,Auto,Unknown,Injury only,$33140,1.0,No
+788,19691755,16981057,Other causes,03/09/2017,Auto,Yes,Injury only,$30080,1.0,No
+789,35445367,32301882,Crime,03/21/2018,Auto,No,Material only,$1310,1.0,No
+790,66768314,16717085,Other causes,06/11/2017,Auto,No,Material only,$2740,2.0,No
+791,68843304,75192560,Other driver error,06/23/2018,Auto,Yes,Injury only,$37520,1.0,No
+792,28290047,24715429,Natural causes,03/28/2018,Auto,Yes,Material only,$2390,3.0,No
+793,73088898,2121802,Other causes,02/17/2017,Auto,Yes,Material and injury,$32090,1.0,No
+794,23145140,30966524,Natural causes,04/17/2018,Auto,No,Injury only,$16870,1.0,No
+795,72238494,63238733,Other causes,09/07/2017,Auto,No,Injury only,,1.0,No
+796,58812093,39608351,Natural causes,04/10/2018,Auto,Yes,Material only,$2750,1.0,No
+797,20354423,16453494,Other driver error,04/17/2018,Auto,Unknown,Material only,$2480,1.0,No
+798,85043191,92789350,Other driver error,02/02/2018,Auto,No,Material only,$1170,2.0,No
+799,44561119,83706741,Crime,12/24/2017,Auto,Yes,Material only,$2633.5,1.0,Yes
+800,58673943,92400577,Other causes,06/23/2018,Auto,No,Material only,,1.0,Yes
+801,84632427,90646435,Other causes,09/19/2018,Auto,Unknown,Injury only,$25350,1.0,No
+802,62312763,56229221,Natural causes,05/15/2017,Auto,No,Material only,$1520,1.0,No
+803,52747205,63788489,Driver error,08/11/2017,Auto,No,Material only,$1880,1.0,No
+804,7838178,49187749,Other causes,10/10/2017,Auto,No,Material and injury,$16680,1.0,No
+805,10442615,58144290,Other causes,07/07/2018,Auto,No,Material only,$1250,1.0,No
+806,38981782,21330507,Other causes,01/20/2018,Home,No,Material only,,1.0,No
+807,97484739,21066098,Crime,01/27/2017,Auto,No,Material only,$2955.5,1.0,Yes
+808,72837991,46673661,Other causes,10/03/2018,Home,No,Material only,$1320,2.0,No
+809,88815908,48477164,Driver error,09/07/2017,Home,Unknown,Material and injury,$48150.5,4.0,Yes
+810,68826444,42351519,Other causes,04/25/2017,Auto,No,Material only,$2800,2.0,No
+811,18702553,25879245,Other causes,07/01/2017,Auto,No,Material only,$1300,1.0,No
+812,83092374,86301193,Driver error,08/24/2017,Home,No,Material and injury,$25093,1.0,Yes
+813,45401148,12996134,Natural causes,07/22/2017,Home,Unknown,Material only,$2680,1.0,No
+814,80621398,44003496,Crime,08/30/2018,Auto,No,Material only,$1400,1.0,No
+815,35373452,89737711,Other causes,03/28/2018,Auto,Unknown,Material only,$2800,1.0,No
+816,74625948,32560779,Other causes,09/14/2017,Auto,No,Material only,,2.0,No
+817,42553935,8039037,Other causes,06/04/2017,Auto,No,Material only,$1210,1.0,No
+818,46925508,68723599,Other driver error,07/01/2017,Auto,No,Material only,$1380,1.0,Yes
+819,42530425,46129941,Crime,10/17/2017,Auto,No,Material only,$3277.5,8.0,Yes
+820,39745422,58098499,Other causes,11/27/2017,Auto,No,Injury only,$27580,1.0,No
+821,32299664,12377926,Driver error,03/28/2018,Home,Yes,Injury only,$14480,1.0,No
+822,27069739,20444103,Crime,08/16/2018,Auto,Unknown,Material only,$1330,5.0,No
+823,89389379,89456307,Natural causes,10/04/2017,Auto,No,Material only,$2500,1.0,No
+824,95618668,15166995,Other causes,01/13/2018,Auto,No,Material and injury,$20690,1.0,No
+825,30888574,38384757,Other causes,07/07/2018,Auto,Unknown,Material only,$1880,2.0,No
+826,98881244,74219574,Other driver error,03/02/2017,Auto,No,Material only,$2700,1.0,No
+827,12086981,3967610,Other driver error,02/10/2017,Auto,Unknown,Material and injury,$26610,1.0,No
+828,89833962,441097,Other causes,03/21/2018,Auto,Yes,Material and injury,$37040,1.0,No
+829,74884043,86992868,Driver error,08/03/2018,Auto,No,Material only,$2500,2.0,No
+830,60980916,78277006,Other causes,07/15/2017,Auto,Yes,Material and injury,$25750,1.0,No
+831,85222695,83499843,Driver error,12/17/2017,Auto,No,Material and injury,$18135.5,1.0,Yes
+832,73426298,71585789,Driver error,05/09/2017,Home,Unknown,Material and injury,$18963.5,1.0,Yes
+833,42449662,6342530,Other driver error,10/23/2018,Home,No,Material only,$2940,1.0,No
+834,87951152,72081129,Crime,10/23/2018,Auto,No,Material only,$1730,3.0,No
+835,39338816,2413612,Other causes,11/20/2017,Home,No,Material only,,1.0,No
+836,40953049,263204,Other causes,04/04/2018,Auto,No,Material and injury,$39192,1.0,Yes
+837,70338835,8733543,Natural causes,03/16/2017,Auto,No,Material only,$2300,1.0,No
+838,70820592,14792193,Other driver error,06/10/2018,Auto,Unknown,Material and injury,$36440,1.0,No
+839,92734593,80581271,Driver error,05/02/2017,Auto,No,Material only,$1184.5,1.0,Yes
+840,58440592,18426154,Other causes,01/07/2017,Auto,Yes,Material and injury,$21590,1.0,No
+841,69374918,85689455,Other driver error,04/18/2017,Auto,No,Material only,$1600,1.0,No
+842,52976799,64270813,Other driver error,08/24/2017,Auto,Unknown,Material only,$1748,1.0,Yes
+843,49234916,51547112,Driver error,07/28/2017,Auto,No,Material only,$2460,3.0,No
+844,14015336,48609526,Driver error,04/05/2017,Auto,No,Injury only,$29530,1.0,No
+845,94060921,49759488,Driver error,02/09/2018,Auto,Unknown,Material only,$1667.5,1.0,Yes
+846,27638017,56075921,Other driver error,02/22/2018,Auto,No,Material only,$1587,4.0,Yes
+847,27133312,76916649,Other driver error,06/25/2017,Home,No,Material only,$2550,4.0,No
+848,2893823,47565478,Natural causes,05/09/2017,Auto,No,Material only,$2702.5,1.0,Yes
+849,94983900,18282409,Driver error,08/11/2017,Auto,No,Injury only,$31020,2.0,No
+850,41574371,8715802,Natural causes,05/29/2017,Auto,Yes,Material only,$2010,1.0,No
+851,33062200,42708350,Driver error,06/18/2017,Auto,No,Material only,$2150,1.0,No
+852,58366436,39405635,Other causes,05/09/2017,Auto,Unknown,Material and injury,$45540,1.0,Yes
+853,76730919,48038858,Other causes,03/02/2017,Auto,Unknown,Material only,$1759.5,2.0,Yes
+854,33341864,15880215,Other driver error,05/29/2017,Auto,Yes,Injury only,$34200,1.0,No
+855,60127984,13088377,Other causes,10/10/2017,Auto,Unknown,Material and injury,$22270,4.0,No
+856,43930771,88870543,Other driver error,03/01/2018,Auto,Yes,Material only,$1300,3.0,No
+857,61586929,9339845,Driver error,10/23/2018,Auto,No,Material only,,1.0,No
+858,14102754,13926634,Other causes,10/03/2018,Auto,No,Material only,$2610.5,3.0,Yes
+859,44965194,18307355,Other causes,02/15/2018,Auto,Yes,Material and injury,$34210,1.0,No
+860,14547597,50436220,Other driver error,02/02/2018,Auto,Unknown,Material and injury,$34530,1.0,No
+861,78381090,66353946,Other driver error,01/20/2018,Auto,Unknown,Material and injury,$26890,1.0,No
+862,15294101,39881716,Other driver error,01/26/2018,Auto,Unknown,Injury only,$28040,2.0,No
+863,68295218,28239393,Other driver error,10/23/2018,Auto,No,Material only,$1230,4.0,No
+864,99688746,5237129,Driver error,06/17/2018,Auto,Unknown,Injury only,$19750,5.0,No
+865,60574108,19521118,Crime,10/17/2017,Auto,No,Material only,$1380,1.0,No
+866,1897779,14892213,Other driver error,01/21/2017,Auto,No,Material only,$2010,5.0,No
+867,41282358,53442249,Other causes,02/23/2017,Auto,No,Material only,$1495,1.0,Yes
+868,11175466,45971331,Natural causes,01/20/2018,Auto,Unknown,Injury only,$32730,1.0,No
+869,12295612,79889146,Natural causes,04/24/2018,Auto,No,Material only,$2587.5,3.0,Yes
+870,64295975,21774335,Natural causes,09/06/2018,Auto,No,Material only,,1.0,No
+871,51489109,66284489,Other driver error,03/09/2017,Auto,No,Material only,$1630,4.0,No
+872,29515311,72488905,Other causes,11/06/2017,Auto,Unknown,Injury only,$26300,1.0,No
+873,60583331,93910149,Crime,05/21/2018,Auto,No,Material only,$1960,1.0,No
+874,32759962,77116501,Other driver error,09/27/2017,Auto,Unknown,Injury only,$20490,7.0,No
+875,68432724,95822358,Other driver error,02/22/2018,Auto,Unknown,Injury only,$16479.5,1.0,Yes
+876,56479721,54699348,Natural causes,11/27/2017,Home,Unknown,Material only,$1980,3.0,No
+877,15618827,96496046,Driver error,02/15/2018,Auto,No,Injury only,,1.0,No
+878,39893971,73869005,Other driver error,08/18/2017,Auto,No,Material only,$2100,3.0,No
+879,31031965,83827717,Natural causes,09/27/2017,Auto,Unknown,Material only,$2290,1.0,No
+880,73781214,55401227,Natural causes,10/31/2017,Auto,Unknown,Material only,$1190,1.0,No
+881,73470467,80295008,Other causes,01/20/2018,Auto,Unknown,Injury only,$21600,1.0,No
+882,75509840,28820055,Other causes,10/04/2017,Auto,No,Material only,$1260,1.0,No
+883,94747735,93455439,Natural causes,04/24/2018,Home,No,Material only,$2219.5,1.0,Yes
+884,37998905,19478893,Natural causes,01/14/2017,Auto,No,Material only,$1910,1.0,No
+885,27093779,45419022,Other causes,05/07/2018,Auto,Unknown,Material only,$1690,3.0,No
+886,72563310,49583926,Other causes,04/25/2017,Auto,Unknown,Material and injury,$15750,1.0,No
+887,3877364,72296323,Driver error,07/07/2018,Home,Unknown,Material only,$2110,1.0,No
+888,77526829,10149231,Other causes,04/24/2018,Auto,Unknown,Material and injury,$34780,3.0,No
+889,50804841,93009704,Driver error,10/03/2018,Auto,Unknown,Material only,$1900,5.0,No
+890,93323222,60987956,Other driver error,05/22/2017,Auto,No,Injury only,$36500,1.0,No
+891,56764164,68709394,Other driver error,01/14/2017,Auto,No,Material and injury,$36860,4.0,No
+892,60095092,27878628,Crime,04/17/2018,Auto,No,Material only,$2277,1.0,Yes
+893,4607758,90085898,Natural causes,10/03/2018,Auto,No,Material only,$3116.5,1.0,Yes
+894,11581354,56098966,Driver error,02/09/2018,Auto,No,Material only,$2360,3.0,No
+895,8299275,69317965,Driver error,06/11/2017,Auto,No,Material and injury,$30340,1.0,No
+896,77574216,81968615,Natural causes,07/15/2017,Auto,No,Material and injury,$23420,1.0,No
+897,84713547,83223514,Other driver error,05/14/2018,Auto,Yes,Injury only,$30400,1.0,No
+898,4812972,78341228,Natural causes,09/12/2018,Auto,Unknown,Material only,$2090,1.0,No
+899,34508507,41462913,Other driver error,02/17/2017,Auto,Unknown,Material and injury,$29740,1.0,No
+900,11448070,80905889,Other driver error,05/02/2017,Auto,No,Material only,$1680,1.0,No
+901,88944238,93822307,Natural causes,12/30/2017,Auto,No,Material only,$2940,1.0,No
+902,92066571,4889449,Other driver error,03/09/2017,Auto,No,Material only,$1207.5,1.0,Yes
+903,18265792,98199694,Driver error,04/05/2017,Auto,No,Material and injury,$22540,1.0,No
+904,57389964,50460892,Other driver error,02/15/2018,Auto,No,Injury only,$31740,2.0,No
+905,42280334,42664554,Other causes,01/01/2017,Auto,No,Injury only,$27670,1.0,No
+906,81995072,94943525,Driver error,08/30/2018,Auto,No,Material and injury,$44470.5,2.0,Yes
+907,24456983,45434540,Natural causes,01/13/2018,Auto,No,Material only,$2000,1.0,No
+908,64240245,88544496,Other causes,03/21/2018,Auto,Yes,Material only,$2810,3.0,No
+909,95800760,36544565,Other driver error,05/21/2018,Auto,Unknown,Material and injury,$27330,3.0,No
+910,1627727,90234480,Other causes,06/11/2017,Auto,No,Material only,$2670,1.0,No
+911,25730111,40801256,Driver error,02/23/2017,Auto,Yes,Material and injury,$26250,1.0,No
+912,70350962,67052896,Driver error,04/17/2018,Auto,Unknown,Material and injury,$14690,1.0,No
+913,13820212,15323667,Driver error,10/09/2018,Auto,Unknown,Injury only,$15270,4.0,No
+914,86202352,67070056,Other causes,02/03/2017,Auto,No,Material only,$2770,1.0,No
+915,60062359,20607084,Other driver error,01/13/2018,Auto,No,Injury only,$37400,1.0,No
+916,84492004,86886743,Other causes,06/04/2017,Home,No,Injury only,,1.0,No
+917,87291535,52995625,Other causes,04/05/2017,Auto,No,Material only,$2310,1.0,No
+918,1342627,63137507,Driver error,10/10/2017,Auto,No,Material only,$3323.5,1.0,Yes
+919,23693541,56250763,Other causes,04/12/2017,Auto,No,Material only,$1570,1.0,No
+920,84040371,35593972,Other causes,02/09/2018,Home,No,Material only,$1530,1.0,No
+921,16259239,86820732,Natural causes,08/24/2017,Auto,Unknown,Material only,$1090,1.0,No
+922,91473446,45113346,Other causes,04/18/2017,Home,Unknown,Material only,$1750,1.0,No
+923,39454053,54668401,Natural causes,01/20/2018,Auto,No,Material only,$2140,1.0,No
+924,66931197,80002521,Natural causes,05/15/2017,Auto,No,Material only,,3.0,No
+925,15719219,14664886,Other causes,08/24/2017,Auto,No,Material only,$2730,1.0,No
+926,7136079,29903212,Driver error,06/17/2018,Auto,No,Material only,$2668,2.0,Yes
+927,61933109,95628948,Driver error,07/14/2018,Auto,Yes,Injury only,$21160,1.0,No
+928,54131824,39497409,Other driver error,03/01/2018,Auto,Unknown,Injury only,$32867,3.0,Yes
+929,21146312,77006226,Driver error,02/15/2018,Auto,No,Material only,$2930,1.0,No
+930,48945235,23252820,Other causes,10/04/2017,Auto,Unknown,Material only,$2560,1.0,No
+931,28439096,96116969,Natural causes,01/20/2018,Auto,No,Material only,$2420,1.0,No
+932,33479837,46076664,Driver error,06/17/2018,Auto,Unknown,Material only,$1690,1.0,No
+933,93697901,91322083,Other causes,05/15/2017,Auto,Unknown,Material and injury,$17370,3.0,No
+934,56728149,34414080,Other causes,10/16/2018,Auto,No,Injury only,$13090,1.0,No
+935,10494374,87607433,Driver error,01/20/2018,Auto,Yes,Material and injury,$33620,1.0,No
+936,22960702,99892000,Driver error,11/13/2017,Auto,No,Material only,$2415,2.0,Yes
+937,7299594,74633480,Other causes,12/30/2017,Auto,Yes,Material only,$2790,3.0,No
+938,57309481,16859101,Other driver error,04/18/2017,Auto,Unknown,Material only,$1970,5.0,No
+939,43076500,92362143,Other driver error,04/25/2017,Auto,No,Material only,$1200,1.0,No
+940,80228119,41291823,Other driver error,12/24/2017,Auto,No,Material and injury,,1.0,No
+941,74761374,46710738,Driver error,10/30/2018,Auto,No,Material only,$1830,1.0,No
+942,77192370,47415706,Other driver error,08/04/2017,Auto,Unknown,Material and injury,$18457.5,1.0,Yes
+943,85699790,83944124,Crime,10/24/2017,Auto,Unknown,Material only,,1.0,No
+944,3258377,58198965,Other driver error,12/17/2017,Auto,Yes,Material and injury,$30670,1.0,No
+945,72439038,80503762,Other causes,02/10/2017,Auto,No,Material only,$2380.5,1.0,Yes
+946,65407446,15214936,Driver error,11/13/2017,Auto,No,Material and injury,$40135,2.0,Yes
+947,34485325,81970531,Driver error,10/31/2017,Auto,Unknown,Material and injury,$29200,1.0,No
+948,834460,12826843,Crime,10/24/2017,Home,Unknown,Material only,$1340,1.0,No
+949,8586230,20643817,Natural causes,10/17/2017,Auto,No,Material only,$1800,1.0,No
+950,3159125,38369440,Natural causes,05/01/2018,Auto,No,Material only,$2780,1.0,No
+951,93334054,69427973,Other causes,03/22/2017,Auto,Unknown,Material and injury,,1.0,No
+952,67873056,3497881,Driver error,11/27/2017,Auto,No,Material and injury,$42021,1.0,Yes
+953,4337976,46678650,Other driver error,07/01/2017,Auto,No,Material only,$2200,3.0,No
+954,69599342,17664425,Driver error,01/21/2017,Auto,No,Material only,$2196.5,5.0,Yes
+955,85590604,41128407,Other causes,01/07/2017,Auto,No,Injury only,$36670,2.0,No
+956,3110549,75884493,Other driver error,09/06/2018,Auto,Yes,Material and injury,$35310,6.0,No
+957,71846514,22580068,Other driver error,05/28/2018,Auto,Unknown,Material only,$3151,1.0,Yes
+958,90284502,49170442,Other causes,05/07/2018,Auto,No,Material and injury,$42872,1.0,Yes
+959,6099788,76962128,Natural causes,04/10/2018,Auto,No,Material only,$2420,1.0,No
+960,43244704,72991636,Natural causes,07/28/2017,Auto,Yes,Material and injury,$32750,4.0,No
+961,45780412,24053072,Natural causes,10/10/2017,Auto,No,Material only,$2490,1.0,No
+962,13883455,68458649,Natural causes,08/31/2017,Auto,No,Material only,$1960,5.0,No
+963,35136402,98401399,Natural causes,09/06/2018,Auto,Unknown,Injury only,$24900,1.0,No
+964,73875239,8310837,Other driver error,01/07/2017,Auto,Yes,Injury only,$35280,2.0,No
+965,1249826,99170243,Other driver error,01/21/2017,Auto,No,Material only,$2260,1.0,No
+966,15818104,33314915,Other driver error,03/28/2018,Auto,No,Material only,$1610,1.0,Yes
+967,55042907,58693933,Driver error,05/09/2017,Auto,No,Material only,$2070,1.0,Yes
+968,22670081,65898442,Natural causes,09/27/2017,Auto,No,Material only,$2990,1.0,No
+969,24713082,40303052,Driver error,06/30/2018,Home,Yes,Injury only,$22440,1.0,No
+970,40182876,94030912,Other causes,07/07/2018,Auto,Yes,Material only,$3093.5,1.0,Yes
+971,92237733,76282379,Other causes,10/16/2018,Auto,Unknown,Material and injury,$22850,1.0,No
+972,89085163,62528525,Natural causes,09/07/2017,Auto,No,Material only,,1.0,No
+973,67252475,69526996,Crime,07/28/2017,Auto,No,Material only,$1740,2.0,No
+974,46452514,88566888,Crime,10/09/2018,Auto,No,Material only,$2430,3.0,No
+975,66301062,30015627,Natural causes,09/12/2018,Auto,Yes,Material only,$2208,4.0,Yes
+976,30422665,70088729,Driver error,01/07/2017,Home,No,Material only,$1552.5,1.0,Yes
+977,9261301,53042145,Other causes,10/23/2018,Auto,Unknown,Material only,$2553,4.0,Yes
+978,49457139,12499211,Other causes,08/16/2018,Auto,No,Material only,$3139.5,1.0,Yes
+979,79750669,3915010,Other causes,10/16/2018,Auto,Unknown,Material and injury,$19820,1.0,No
+980,7944120,23094322,Other causes,08/10/2018,Home,Yes,Material and injury,$35800,1.0,No
+981,519194,95863439,Natural causes,03/29/2017,Home,Unknown,Material only,$2510,1.0,No
+982,76136365,72212627,Crime,03/02/2017,Auto,No,Injury only,$14250,1.0,No
+983,75321090,49164086,Other driver error,04/25/2017,Auto,No,Material only,$3093.5,4.0,Yes
+984,17396013,44050095,Driver error,03/22/2017,Auto,Unknown,Material and injury,$20458.5,1.0,Yes
+985,50022306,10198314,Other causes,05/01/2018,Auto,Unknown,Injury only,$28658,1.0,Yes
+986,60050677,84861652,Natural causes,06/03/2018,Auto,No,Material only,$1290,1.0,No
+987,88309120,88489646,Other driver error,10/17/2017,Auto,No,Material only,$2360,1.0,No
+988,12015495,89364843,Other causes,09/27/2017,Auto,No,Material only,,1.0,No
+989,78685929,29459103,Natural causes,07/01/2017,Auto,No,Injury only,,1.0,Yes
+990,16402994,86164274,Other causes,09/26/2018,Home,Unknown,Material and injury,$15760,1.0,No
+991,55314900,41858669,Driver error,07/14/2018,Auto,No,Material only,$1610,2.0,No
+992,58070797,9113953,Other causes,04/10/2018,Home,No,Material only,$2090,1.0,No
+993,83283000,6984936,Driver error,06/10/2018,Auto,Yes,Material and injury,$25210,3.0,No
+994,26832,37686146,Other causes,07/07/2018,Auto,No,Material only,$1510,1.0,No
+995,704775,86088574,Driver error,09/20/2017,Auto,No,Injury only,$40951.5,1.0,Yes
+996,16221546,73685982,Other driver error,05/02/2017,Home,No,Material only,$1470,1.0,No
+997,94799556,63279444,Other causes,10/04/2017,Home,No,Material only,$1587,4.0,Yes
+998,92320208,84080228,Natural causes,04/12/2017,Auto,Yes,Material and injury,$23483,4.0,Yes
+999,35453672,99723844,Natural causes,01/06/2018,Auto,Yes,Material and injury,$14360,1.0,No
+1000,86240106,885337,Driver error,07/01/2017,Auto,No,Material only,$2490,2.0,No
+1001,14704752,22125988,Natural causes,07/07/2018,Auto,No,Material only,$2710,1.0,No
+1002,78672117,79391302,Other causes,06/04/2017,Auto,No,Material only,$2500,2.0,No
+1003,42731329,75483302,Natural causes,04/10/2018,Auto,No,Material only,$1770,5.0,No
+1004,71383085,86977672,Crime,01/07/2017,Auto,No,Material only,$1530,2.0,No
+1005,59393861,7703371,Natural causes,03/09/2017,Auto,No,Material only,$1350,1.0,No
+1006,93708812,69101618,Driver error,02/23/2017,Auto,No,Material and injury,$29220,3.0,No
+1007,89455788,20681481,Other causes,03/16/2017,Auto,No,Material only,$2720,1.0,No
+1008,4802134,9897266,Other causes,06/25/2017,Auto,Yes,Injury only,$27350,1.0,No
+1009,78804570,69165409,Other causes,09/12/2018,Auto,No,Material and injury,$19390,1.0,No
+1010,7211846,97226830,Other driver error,04/04/2018,Auto,No,Material only,$2900,2.0,No
+1011,4186299,66788290,Driver error,05/21/2018,Auto,Yes,Injury only,$33360,1.0,No
+1012,24121111,67697862,Other causes,08/16/2018,Auto,No,Material only,$2320,1.0,No
+1013,63877619,69623124,Other causes,05/21/2018,Auto,No,Material only,$1180,2.0,No
+1014,26344933,86445910,Natural causes,10/03/2018,Auto,Unknown,Material only,$2470,1.0,No
+1015,97210536,48445766,Other driver error,02/15/2018,Auto,No,Material only,$1000,2.0,No
+1016,12612736,74787956,Driver error,09/14/2017,Auto,Unknown,Material only,,1.0,No
+1017,46839282,45364348,Driver error,11/20/2017,Auto,No,Material only,$2990,1.0,No
+1018,69454875,81661419,Driver error,04/04/2018,Auto,No,Material only,$2852,2.0,Yes
+1019,63402766,78301168,Other driver error,03/21/2018,Auto,Unknown,Material only,$1370,1.0,No
+1020,51060336,91447671,Driver error,06/03/2018,Auto,No,Material only,$1370,1.0,No
+1021,26058387,23445933,Crime,12/30/2017,Auto,No,Material only,$1670,2.0,No
+1022,87968374,86320995,Other driver error,03/16/2017,Home,No,Material only,$1720,1.0,No
+1023,30903408,77134414,Other driver error,01/07/2017,Auto,Unknown,Injury only,$28760,1.0,No
+1024,35001150,71986983,Other driver error,07/20/2018,Auto,Unknown,Material only,$1180,4.0,No
+1025,54291209,28528424,Other causes,07/14/2018,Auto,No,Material only,,1.0,No
+1026,78011323,26346266,Driver error,02/03/2017,Auto,No,Material only,$3346.5,1.0,Yes
+1027,30441336,71259315,Natural causes,04/12/2017,Auto,No,Material only,$2110,1.0,No
+1028,92741962,78119838,Driver error,05/14/2018,Auto,No,Material only,$1750,1.0,No
+1029,22032611,27598176,Driver error,01/13/2018,Auto,No,Material and injury,$48035.5,1.0,Yes
+1030,65984723,83135621,Other driver error,08/18/2017,Auto,No,Material only,$1240,1.0,No
+1031,4338441,51760038,Other driver error,02/17/2017,Auto,No,Material only,$2800,1.0,No
+1032,99300549,91002298,Natural causes,04/05/2017,Auto,No,Injury only,$34010,1.0,No
+1033,10271722,16906248,Other driver error,06/03/2018,Auto,No,Material only,$1780,1.0,No
+1034,35521654,93133213,Natural causes,03/01/2018,Home,No,Material only,$1480,1.0,No
+1035,22576028,18369428,Other causes,08/11/2017,Auto,No,Material only,$1472,1.0,Yes
+1036,83884815,71676845,Other driver error,07/27/2018,Auto,No,Material only,,3.0,No
+1037,47990199,68067526,Driver error,07/15/2017,Auto,No,Material only,$1330,1.0,No
+1038,68110055,97169446,Other driver error,02/15/2018,Auto,No,Material only,$1780,5.0,No
+1039,28106228,44453657,Driver error,01/07/2017,Auto,No,Material only,$1276.5,1.0,Yes
+1040,60315464,32646041,Driver error,02/17/2017,Home,No,Material and injury,$28520,1.0,Yes
+1041,11179944,41946743,Other driver error,05/21/2018,Auto,No,Injury only,$17870,6.0,No
+1042,24082779,74207825,Other driver error,04/24/2018,Home,No,Material only,$2380,,No
+1043,61365788,24247743,Other causes,05/14/2018,Auto,No,Material only,$2280,1.0,No
+1044,50618311,69608621,Other causes,07/08/2017,Auto,No,Material only,$1357,1.0,Yes
+1045,67344180,72664684,Other causes,07/28/2017,Home,Unknown,Material only,$2590,1.0,No
+1046,17213671,18174078,Other driver error,02/02/2018,Auto,No,Material only,$2852,4.0,Yes
+1047,39886036,34756508,Natural causes,07/07/2018,Auto,No,Material only,$1690,1.0,No
+1048,7180084,608461,Crime,07/14/2018,Auto,No,Material only,$2630,1.0,No
+1049,67060119,12015897,Driver error,10/09/2018,Auto,Unknown,Material only,$2270,6.0,No
+1050,81779336,60965575,Other driver error,03/21/2018,Auto,No,Material and injury,$19895,1.0,Yes
+1051,93043462,81634435,Other driver error,01/27/2017,Home,Unknown,Material and injury,,1.0,No
+1052,37077391,67849662,Natural causes,06/25/2017,Auto,Yes,Injury only,$35920,1.0,No
+1053,45865218,96439036,Other causes,08/10/2018,Auto,Yes,Injury only,$26320,1.0,No
+1054,50927161,51033228,Driver error,10/23/2018,Auto,No,Material and injury,$30890,2.0,No
+1055,43042986,58451506,Natural causes,10/30/2018,Auto,No,Material only,$2420,1.0,No
+1056,42636878,26734721,Natural causes,09/14/2017,Auto,No,Material only,$1720,1.0,No
+1057,78104894,20923121,Natural causes,05/14/2018,Auto,No,Material and injury,$31210,1.0,No
+1058,38011383,56425562,Natural causes,09/14/2017,Auto,No,Material only,$1670,1.0,No
+1059,91976551,79174311,Natural causes,08/30/2018,Auto,No,Material only,$2162,5.0,Yes
+1060,31517760,30119782,Other driver error,10/17/2017,Auto,Unknown,Material only,$2242.5,1.0,Yes
+1061,365998,57267299,Other driver error,12/03/2017,Auto,Yes,Material and injury,$25140,2.0,No
+1062,85546357,90217818,Other driver error,06/04/2017,Auto,No,Injury only,$37743,1.0,Yes
+1063,67763980,70708127,Natural causes,09/19/2018,Auto,No,Material only,$1150,1.0,Yes
+1064,56358443,75934330,Natural causes,01/01/2017,Auto,Yes,Injury only,$20630,1.0,No
+1065,77696516,71288937,Other causes,11/20/2017,Auto,No,Material only,$1230,1.0,No
+1066,15231655,81526763,Other causes,02/03/2017,Auto,Unknown,Material only,$2323,3.0,Yes
+1067,50845008,78064067,Natural causes,09/06/2018,Auto,No,Material only,$1090,5.0,No
+1068,57326503,29854604,Other driver error,07/20/2018,Auto,No,Material and injury,$44033.5,1.0,Yes
+1069,91946746,8684318,Other driver error,02/03/2017,Home,Yes,Material only,$2670,2.0,No
+1070,25244745,46513280,Other causes,12/30/2017,Auto,No,Material only,$2070,1.0,No
+1071,65497756,6104555,Natural causes,07/28/2017,Auto,Unknown,Material only,$1050,1.0,No
+1072,50800999,51669975,Other causes,09/19/2018,Home,Yes,Injury only,$38950,1.0,No
+1073,14230070,3205230,Driver error,08/23/2018,Auto,No,Material only,$2730,3.0,No
+1074,36599575,87596868,Driver error,10/09/2018,Auto,Unknown,Injury only,$33330,2.0,No
+1075,28084004,82089910,Driver error,06/03/2018,Auto,No,Material only,$2780,1.0,No
+1076,87294246,57452643,Crime,01/21/2017,Home,No,Material only,$1380,3.0,No
+1077,91386759,65208809,Natural causes,10/30/2018,Auto,No,Material only,$2290,1.0,No
+1078,47457836,6756905,Driver error,01/21/2017,Auto,No,Material only,$2320,3.0,No
+1079,72025178,46850495,Other causes,11/27/2017,Auto,Yes,Material only,$2173.5,1.0,Yes
+1080,62020796,79539873,Other driver error,09/06/2018,Auto,Yes,Material only,$1770,1.0,No
+1081,63269067,42364152,Other causes,05/09/2017,Home,No,Material only,$2800,1.0,No
+1082,22690595,19888166,Other driver error,05/15/2017,Auto,Yes,Injury only,$33080,2.0,No
+1083,12376894,11256802,Other driver error,04/18/2017,Auto,No,Material only,$2840,4.0,No
+1084,63226031,61575264,Natural causes,03/16/2017,Auto,No,Material only,$1490,1.0,No
+1085,5829074,2379897,Other causes,07/20/2018,Auto,No,Material only,$2080,1.0,No
+1086,12632133,49290530,Natural causes,10/30/2018,Auto,No,Material only,$2875,1.0,Yes
+1087,45052103,55466148,Driver error,12/03/2017,Auto,No,Injury only,$29010,1.0,No
+1088,87003624,99120304,Other causes,03/22/2017,Auto,No,Material only,$1710,1.0,No
+1089,1680169,65061027,Natural causes,05/02/2017,Auto,Unknown,Material only,$1030,4.0,No
+1090,56626640,82584690,Other driver error,08/24/2017,Auto,Unknown,Material only,$2288.5,1.0,Yes
+1091,7280558,40349009,Crime,10/17/2017,Auto,No,Material only,$3346.5,3.0,Yes
+1092,74995596,55765343,Crime,06/30/2018,Auto,Unknown,Material only,$1805.5,1.0,Yes
+1093,8475725,75409818,Other causes,07/07/2018,Auto,No,Material only,$1610,3.0,No
+1094,33194240,18332683,Other causes,11/13/2017,Auto,Yes,Material and injury,$24850,1.0,No
+1095,97727122,35951012,Other driver error,06/11/2017,Auto,No,Material only,$3059,4.0,Yes
+1096,10247193,14818669,Natural causes,03/14/2018,Auto,No,Material only,$1520,2.0,No
+1097,79807493,85322831,Other driver error,02/09/2018,Auto,No,Material and injury,$23575,2.0,Yes
+1098,69299345,73449366,Other causes,03/21/2018,Auto,Unknown,Material and injury,$25120,1.0,No
+1099,58809728,43020876,Other driver error,06/04/2017,Auto,Yes,Material and injury,$36685,3.0,Yes
